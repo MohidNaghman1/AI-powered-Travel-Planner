@@ -1,0 +1,2804 @@
+{
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "description": "Afghanistan is known for its rugged mountains and rich history. Explore ancient sites in Balkh and the vibrant city of Kabul. Best time: April to June and September to October.",
+      "metadata": {
+        "capital": "Kabul",
+        "country_code": "AF",
+        "lat": 34.5553,
+        "lon": 69.2075,
+        "image_url": "https://images.pexels.com/photos/16035398/pexels-photo-16035398/free-photo-of-minaret-of-jam-in-grout-province.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["mountains", "history", "culture"],
+        "best_months": [4, 5, 6, 9, 10],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Albania",
+      "description": "Albania offers stunning coastlines along the Adriatic and Ionian seas. Discover Ottoman architecture in Gjirokastër and beaches in Sarandë. Best time: May to September.",
+      "metadata": {
+        "capital": "Tirana",
+        "country_code": "AL",
+        "lat": 41.3275,
+        "lon": 19.8187,
+        "image_url": "https://images.pexels.com/photos/681391/pexels-photo-681391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "coastline", "history", "architecture"],
+        "best_months": [5, 6, 7, 8, 9],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Algeria",
+      "description": "Algeria, Africa's largest country, features the vast Sahara desert. Explore the Casbah of Algiers and Roman ruins at Timgad. Best time: March to May and September to November.",
+      "metadata": {
+        "capital": "Algiers",
+        "country_code": "DZ",
+        "lat": 36.7754,
+        "lon": 3.0588,
+        "image_url": "https://images.pexels.com/photos/13774332/pexels-photo-13774332.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["desert", "history", "ruins", "culture"],
+        "best_months": [3, 4, 5, 9, 10, 11],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "American Samoa",
+      "description": "American Samoa is a U.S. territory with tropical rainforests and coral reefs. Ideal for snorkeling in Pago Pago Harbor and hiking in the National Park. Best time: June to September.",
+      "metadata": {
+        "capital": "Pago Pago",
+        "country_code": "AS",
+        "lat": -14.2766,
+        "lon": -170.7027,
+        "image_url": "https://images.pexels.com/photos/17697334/pexels-photo-17697334/free-photo-of-aerial-view-of-a-tropical-island.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["rainforest", "coral reefs", "snorkeling", "hiking"],
+        "best_months": [6, 7, 8, 9],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Andorra",
+      "description": "Andorra is a tiny principality in the Pyrenees mountains. Famous for ski resorts like Grandvalira and duty-free shopping in Andorra la Vella. Best time: December to March for skiing, June to September for hiking.",
+      "metadata": {
+        "capital": "Andorra la Vella",
+        "country_code": "AD",
+        "lat": 42.5063,
+        "lon": 1.5218,
+        "image_url": "https://images.pexels.com/photos/9733194/pexels-photo-9733194.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["mountains", "skiing", "hiking", "shopping"],
+        "best_months": [1, 2, 3, 6, 7, 8, 9, 12],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Angola",
+      "description": "Angola boasts a diverse landscape of tropical Atlantic beaches and sub-Saharan desert. Discover colonial history in Luanda and waterfalls at Kalandula. Best time: June to September.",
+      "metadata": {
+        "capital": "Luanda",
+        "country_code": "AO",
+        "lat": -8.8399,
+        "lon": 13.2894,
+        "image_url": "https://images.pexels.com/photos/10398679/pexels-photo-10398679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "desert", "history", "waterfalls"],
+        "best_months": [6, 7, 8, 9],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Anguilla",
+      "description": "Anguilla is a Caribbean island known for its pristine white-sand beaches and turquoise waters, such as Shoal Bay East. Best time: December to April.",
+      "metadata": {
+        "capital": "The Valley",
+        "country_code": "AI",
+        "lat": 18.2173,
+        "lon": -63.0540,
+        "image_url": "https://images.pexels.com/photos/1483053/pexels-photo-1483053.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "islands", "luxury"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Antarctica",
+      "description": "Antarctica is the Earth's southernmost continent, a vast, ice-covered landmass. Ideal for expedition cruises to see penguins and massive icebergs. Best time: November to March.",
+      "metadata": {
+        "capital": "McMurdo Station",
+        "country_code": "AQ",
+        "lat": -77.8463,
+        "lon": 166.6682,
+        "image_url": "https://images.pexels.com/photos/1594103/pexels-photo-1594103.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["adventure", "wildlife", "cruises", "icebergs"],
+        "best_months": [11, 12, 1, 2, 3],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "description": "Antigua and Barbuda is a Caribbean nation famous for having a beach for every day of the year. Visit Nelson's Dockyard and snorkel at Cades Reef. Best time: December to April.",
+      "metadata": {
+        "capital": "St. John's",
+        "country_code": "AG",
+        "lat": 17.1274,
+        "lon": -61.8445,
+        "image_url": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "sailing", "history", "snorkeling"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Argentina",
+      "description": "Argentina offers cosmopolitan Buenos Aires (tango), the Andes mountains (skiing), and the dramatic landscapes of Patagonia (trekking). Best time: Varies by region; spring (October-November) and fall (March-April) are pleasant.",
+      "metadata": {
+        "capital": "Buenos Aires",
+        "country_code": "AR",
+        "lat": -34.6037,
+        "lon": -58.3816,
+        "image_url": "https://images.pexels.com/photos/2679585/pexels-photo-2679585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["culture", "tango", "mountains", "skiing", "trekking", "city life"],
+        "best_months": [3, 4, 10, 11],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Armenia",
+      "description": "Armenia is a nation in the Caucasus region with ancient monasteries and rugged landscapes. Explore Yerevan's history and the Geghard Monastery. Best time: May to June and September to October.",
+      "metadata": {
+        "capital": "Yerevan",
+        "country_code": "AM",
+        "lat": 40.1792,
+        "lon": 44.4991,
+        "image_url": "https://images.pexels.com/photos/10041261/pexels-photo-10041261.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "monasteries", "culture", "mountains"],
+        "best_months": [5, 6, 9, 10],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Aruba",
+      "description": "Aruba is a Dutch Caribbean island with sunny weather, clear waters, and desert-like terrain. Enjoy Eagle Beach and Arikok National Park. Best time: Year-round, but April to August has lower prices.",
+      "metadata": {
+        "capital": "Oranjestad",
+        "country_code": "AW",
+        "lat": 12.5211,
+        "lon": -70.0350,
+        "image_url": "https://images.pexels.com/photos/237272/pexels-photo-237272.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "desert", "watersports", "national parks"],
+        "best_months": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Australia",
+      "description": "Australia offers the Great Barrier Reef (diving), the Outback (adventure), and vibrant cities like Sydney (Opera House) and Melbourne (culture). Best time: Varies greatly by region due to its size.",
+      "metadata": {
+        "capital": "Canberra",
+        "country_code": "AU",
+        "lat": -35.2809,
+        "lon": 149.1300,
+        "image_url": "https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["diving", "coral reefs", "adventure", "city life", "wildlife", "beaches"],
+        "best_months": [1, 2, 3, 4, 9, 10, 11, 12],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Austria",
+      "description": "Austria is famous for its imperial history in Vienna, classical music, and the stunning Alps, perfect for skiing in Tyrol and hiking in summer. Best time: December to March for skiing, June to September for hiking.",
+      "metadata": {
+        "capital": "Vienna",
+        "country_code": "AT",
+        "lat": 48.2082,
+        "lon": 16.3738,
+        "image_url": "https://images.pexels.com/photos/161265/hallstatt-salzkammergut-austria-village-161265.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "music", "mountains", "skiing", "hiking", "city life"],
+        "best_months": [1, 2, 3, 6, 7, 8, 9, 12],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Azerbaijan",
+      "description": "Azerbaijan, the 'Land of Fire,' blends ancient history and modern architecture in Baku, with its Flame Towers and medieval walled city. Best time: April to June and September to October.",
+      "metadata": {
+        "capital": "Baku",
+        "country_code": "AZ",
+        "lat": 40.4093,
+        "lon": 49.8671,
+        "image_url": "https://images.pexels.com/photos/5699998/pexels-photo-5699998.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "architecture", "culture", "city life"],
+        "best_months": [4, 5, 6, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Bahamas",
+      "description": "The Bahamas is an archipelago with over 700 islands and cays. Known for sailing, diving in Andros, and the mega-resorts of Nassau. Best time: December to April.",
+      "metadata": {
+        "capital": "Nassau",
+        "country_code": "BS",
+        "lat": 25.0343,
+        "lon": -77.3963,
+        "image_url": "https://images.pexels.com/photos/2034335/pexels-photo-2034335.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["sailing", "diving", "beaches", "resorts"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Bahrain",
+      "description": "Bahrain is an island nation in the Persian Gulf, blending modern skyscrapers in Manama with ancient history like the Bahrain Fort. Best time: November to March.",
+      "metadata": {
+        "capital": "Manama",
+        "country_code": "BH",
+        "lat": 26.2285,
+        "lon": 50.5860,
+        "image_url": "https://images.pexels.com/photos/10189098/pexels-photo-10189098.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["city life", "history", "culture", "desert"],
+        "best_months": [11, 12, 1, 2, 3],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "description": "Bangladesh features lush greenery and many waterways. Explore the Sundarbans mangrove forest, home to the Bengal tiger, and the bustling city of Dhaka. Best time: October to March.",
+      "metadata": {
+        "capital": "Dhaka",
+        "country_code": "BD",
+        "lat": 23.8103,
+        "lon": 90.4125,
+        "image_url": "https://images.pexels.com/photos/16016182/pexels-photo-16016182/free-photo-of-a-river-with-boats-and-a-bridge-in-the-background.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["nature", "wildlife", "culture", "rivers"],
+        "best_months": [10, 11, 12, 1, 2, 3],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Barbados",
+      "description": "Barbados is a Caribbean island known for its British colonial architecture, beautiful beaches, and birthplace of rum. Explore Bridgetown and Crane Beach. Best time: December to April.",
+      "metadata": {
+        "capital": "Bridgetown",
+        "country_code": "BB",
+        "lat": 13.1073,
+        "lon": -59.6205,
+        "image_url": "https://images.pexels.com/photos/235648/pexels-photo-235648.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "history", "architecture", "food"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Belarus",
+      "description": "Belarus offers grand Soviet-era architecture in Minsk and pristine nature in the Belovezhskaya Pushcha National Park. Best time: June to August for warm weather.",
+      "metadata": {
+        "capital": "Minsk",
+        "country_code": "BY",
+        "lat": 53.9045,
+        "lon": 27.5615,
+        "image_url": "https://images.pexels.com/photos/13597087/pexels-photo-13597087.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "architecture", "nature", "national parks"],
+        "best_months": [6, 7, 8],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Belgium",
+      "description": "Belgium is famous for its medieval towns like Bruges and Ghent, Renaissance architecture in Brussels, and world-class chocolates and beer. Best time: April to June and September.",
+      "metadata": {
+        "capital": "Brussels",
+        "country_code": "BE",
+        "lat": 50.8503,
+        "lon": 4.3517,
+        "image_url": "https://images.pexels.com/photos/208134/pexels-photo-208134.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "architecture", "food", "city life"],
+        "best_months": [4, 5, 6, 9],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Belize",
+      "description": "Belize is home to the second-largest barrier reef in the world, making it a paradise for scuba diving (Great Blue Hole) and snorkeling. Also offers jungle lodges and Mayan ruins. Best time: December to April.",
+      "metadata": {
+        "capital": "Belmopan",
+        "country_code": "BZ",
+        "lat": 17.2510,
+        "lon": -88.7590,
+        "image_url": "https://images.pexels.com/photos/2225499/pexels-photo-2225499.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["scuba diving", "snorkeling", "coral reefs", "jungle", "ruins"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Benin",
+      "description": "Benin is the birthplace of the Vodun (Voodoo) religion and has a rich history tied to the Kingdom of Dahomey. Explore the stilt village of Ganvié. Best time: November to February.",
+      "metadata": {
+        "capital": "Porto-Novo",
+        "country_code": "BJ",
+        "lat": 6.4969,
+        "lon": 2.6285,
+        "image_url": "https://images.pexels.com/photos/15949576/pexels-photo-15949576/free-photo-of-a-group-of-colorful-boats-on-the-water.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["culture", "history", "religion"],
+        "best_months": [11, 12, 1, 2],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Bermuda",
+      "description": "Bermuda is a British island territory in the North Atlantic, known for its pink-sand beaches like Horseshoe Bay and distinct blend of British and American culture. Best time: May to October.",
+      "metadata": {
+        "capital": "Hamilton",
+        "country_code": "BM",
+        "lat": 32.2949,
+        "lon": -64.7830,
+        "image_url": "https://images.pexels.com/photos/236111/pexels-photo-236111.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "golf", "sailing", "culture"],
+        "best_months": [5, 6, 7, 8, 9, 10],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Bhutan",
+      "description": "Bhutan is a Buddhist kingdom on the Himalayas’ eastern edge, known for its monasteries, fortresses (dzongs), and a focus on Gross National Happiness. Trek to the Tiger's Nest Monastery. Best time: March to May and September to November.",
+      "metadata": {
+        "capital": "Thimphu",
+        "country_code": "BT",
+        "lat": 27.4728,
+        "lon": 89.6390,
+        "image_url": "https://images.pexels.com/photos/1107534/pexels-photo-1107534.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["culture", "religion", "mountains", "trekking", "monasteries"],
+        "best_months": [3, 4, 5, 9, 10, 11],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Bolivia",
+      "description": "Bolivia is a country of extremes, with the Andes mountains, Atacama Desert, and Amazon Basin rainforest. Highlights include the Salar de Uyuni salt flats and historic Sucre. Best time: April to October.",
+      "metadata": {
+        "capital": "Sucre",
+        "country_code": "BO",
+        "lat": -19.0196,
+        "lon": -65.2619,
+        "image_url": "https://images.pexels.com/photos/4054737/pexels-photo-4054737.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["mountains", "desert", "rainforest", "nature", "culture"],
+        "best_months": [4, 5, 6, 7, 8, 9, 10],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "description": "Bosnia and Herzegovina is known for its medieval villages, rivers, and lakes. Visit the iconic Stari Most (Old Bridge) in Mostar and the historic center of Sarajevo. Best time: May to September.",
+      "metadata": {
+        "capital": "Sarajevo",
+        "country_code": "BA",
+        "lat": 43.8563,
+        "lon": 18.4131,
+        "image_url": "https://images.pexels.com/photos/4488647/pexels-photo-4488647.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "culture", "nature", "rivers"],
+        "best_months": [5, 6, 7, 8, 9],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Botswana",
+      "description": "Botswana is a premier safari destination, known for the vast Kalahari Desert and the lush Okavango Delta, which becomes a teeming animal habitat during the seasonal floods. Best time: May to October.",
+      "metadata": {
+        "capital": "Gaborone",
+        "country_code": "BW",
+        "lat": -24.6282,
+        "lon": 25.9231,
+        "image_url": "https://images.pexels.com/photos/68407/pexels-photo-68407.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["safari", "wildlife", "desert", "nature"],
+        "best_months": [5, 6, 7, 8, 9, 10],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Brazil",
+      "description": "Brazil is a vast country of rainforests, vibrant cities, and iconic landmarks. Experience Carnival in Rio de Janeiro, explore the Amazon River, and see Iguazu Falls. Best time: Varies by region; September to October is often ideal.",
+      "metadata": {
+        "capital": "Brasília",
+        "country_code": "BR",
+        "lat": -15.8267,
+        "lon": -47.9218,
+        "image_url": "https://images.pexels.com/photos/2885320/pexels-photo-2885320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["rainforest", "city life", "festivals", "waterfalls", "beaches"],
+        "best_months": [9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "British Virgin Islands",
+      "description": "The British Virgin Islands are a sailing paradise in the Caribbean, known for pristine beaches, yacht-filled harbors in Tortola, and the unique Baths on Virgin Gorda. Best time: December to April.",
+      "metadata": {
+        "capital": "Road Town",
+        "country_code": "VG",
+        "lat": 18.4314,
+        "lon": -64.6231,
+        "image_url": "https://images.pexels.com/photos/1078983/pexels-photo-1078983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["sailing", "beaches", "luxury", "islands"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Brunei",
+      "description": "Brunei is a tiny, oil-rich sultanate on the island of Borneo. Known for its opulent mosques like the Jame' Asr Hassanil Bolkiah and biodiverse rainforests. Best time: January to May.",
+      "metadata": {
+        "capital": "Bandar Seri Begawan",
+        "country_code": "BN",
+        "lat": 4.9031,
+        "lon": 114.9408,
+        "image_url": "https://images.pexels.com/photos/402028/pexels-photo-402028.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["mosques", "rainforest", "culture", "architecture"],
+        "best_months": [1, 2, 3, 4, 5],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Bulgaria",
+      "description": "Bulgaria offers a diverse landscape, from sunny Black Sea beaches to rugged mountains ideal for skiing (Bansko) and hiking (Rila). Discover ancient history in Plovdiv. Best time: June to September for coast, December to March for skiing.",
+      "metadata": {
+        "capital": "Sofia",
+        "country_code": "BG",
+        "lat": 42.6977,
+        "lon": 23.3219,
+        "image_url": "https://images.pexels.com/photos/615233/pexels-photo-615233.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "mountains", "skiing", "hiking", "history"],
+        "best_months": [1, 2, 3, 6, 7, 8, 9, 12],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Burkina Faso",
+      "description": "Burkina Faso is a West African country known for its vibrant music scene in Ouagadougou and the otherworldly rock formations of Sindou Peaks. Best time: October to April.",
+      "metadata": {
+        "capital": "Ouagadougou",
+        "country_code": "BF",
+        "lat": 12.3714,
+        "lon": -1.5197,
+        "image_url": "https://images.pexels.com/photos/15950854/pexels-photo-15950854/free-photo-of-a-mosque-with-a-blue-sky-in-the-background.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["music", "culture", "nature"],
+        "best_months": [10, 11, 12, 1, 2, 3, 4],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Burundi",
+      "description": "Burundi is a small nation in the African Great Lakes region. Explore Lake Tanganyika, one of the world's deepest lakes, and the capital, Gitega. Best time: June to September.",
+      "metadata": {
+        "capital": "Gitega",
+        "country_code": "BI",
+        "lat": -3.4293,
+        "lon": 29.9250,
+        "image_url": "https://images.pexels.com/photos/7474278/pexels-photo-7474278.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["lakes", "nature", "culture"],
+        "best_months": [6, 7, 8, 9],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Cabo Verde",
+      "description": "Cabo Verde is an archipelago off the coast of West Africa, blending African, Brazilian, and Portuguese cultures. Known for music, hiking on Santo Antão, and beaches on Sal. Best time: November to June.",
+      "metadata": {
+        "capital": "Praia",
+        "country_code": "CV",
+        "lat": 14.9331,
+        "lon": -23.5133,
+        "image_url": "https://images.pexels.com/photos/10186981/pexels-photo-10186981.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["music", "hiking", "beaches", "culture"],
+        "best_months": [11, 12, 1, 2, 3, 4, 5, 6],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Cambodia",
+      "description": "Cambodia is home to the magnificent temples of Angkor Wat, a testament to the powerful Khmer Empire. Explore the bustling capital of Phnom Penh and the beaches of Koh Rong. Best time: November to April.",
+      "metadata": {
+        "capital": "Phnom Penh",
+        "country_code": "KH",
+        "lat": 11.5564,
+        "lon": 104.9282,
+        "image_url": "https://images.pexels.com/photos/1730877/pexels-photo-1730877.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "temples", "ruins", "city life", "beaches"],
+        "best_months": [11, 12, 1, 2, 3, 4],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Cameroon",
+      "description": "Cameroon, often called 'Africa in miniature,' has incredibly diverse terrain, from beaches to rainforests to mountains. Hike Mount Cameroon or visit Waza National Park. Best time: November to February.",
+      "metadata": {
+        "capital": "Yaoundé",
+        "country_code": "CM",
+        "lat": 3.8480,
+        "lon": 11.5021,
+        "image_url": "https://images.pexels.com/photos/1485637/pexels-photo-1485637.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "rainforest", "mountains", "hiking", "national parks", "wildlife"],
+        "best_months": [11, 12, 1, 2],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Canada",
+      "description": "Canada is a vast country of mountains, forests, and vibrant multicultural cities. Go skiing in Banff, explore the culture of Montreal, and see the Northern Lights in the Yukon. Best time: Varies greatly by region and activity.",
+      "metadata": {
+        "capital": "Ottawa",
+        "country_code": "CA",
+        "lat": 45.4215,
+        "lon": -75.6972,
+        "image_url": "https://images.pexels.com/photos/247929/pexels-photo-247929.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["mountains", "forests", "city life", "skiing", "culture", "northern lights"],
+        "best_months": [1, 2, 6, 7, 8, 9, 12],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Cayman Islands",
+      "description": "The Cayman Islands are a British Overseas Territory in the Caribbean, renowned as a major offshore financial hub and a world-class scuba diving destination (Stingray City). Best time: December to April.",
+      "metadata": {
+        "capital": "George Town",
+        "country_code": "KY",
+        "lat": 19.2866,
+        "lon": -81.3821,
+        "image_url": "https://images.pexels.com/photos/1658967/pexels-photo-1658967.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["scuba diving", "beaches", "luxury", "finance"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Central African Republic",
+      "description": "The Central African Republic is a landlocked nation of dense rainforest and savanna, home to forest elephants and lowland gorillas in Dzanga-Sangha Special Reserve. Best time: December to March.",
+      "metadata": {
+        "capital": "Bangui",
+        "country_code": "CF",
+        "lat": 4.3947,
+        "lon": 18.5582,
+        "image_url": "https://images.pexels.com/photos/14838641/pexels-photo-14838641.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["rainforest", "wildlife", "gorillas", "adventure"],
+        "best_months": [12, 1, 2, 3],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Chad",
+      "description": "Chad is a vast, arid country in north-central Africa. It offers unique desert landscapes in the Ennedi Massif and wildlife viewing at Zakouma National Park. Best time: November to January.",
+      "metadata": {
+        "capital": "N'Djamena",
+        "country_code": "TD",
+        "lat": 12.1348,
+        "lon": 15.0557,
+        "image_url": "https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["desert", "nature", "wildlife", "national parks"],
+        "best_months": [11, 12, 1],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Chile",
+      "description": "Chile is a long, narrow country with incredibly diverse landscapes, from the Atacama Desert to the glaciers of Patagonia and mysterious Easter Island. Best time: Varies; September to November and March to May are great.",
+      "metadata": {
+        "capital": "Santiago",
+        "country_code": "CL",
+        "lat": -33.4489,
+        "lon": -70.6693,
+        "image_url": "https://images.pexels.com/photos/4171211/pexels-photo-4171211.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["desert", "glaciers", "trekking", "nature", "islands"],
+        "best_months": [3, 4, 5, 9, 10, 11],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "China",
+      "description": "China is a vast nation with ancient history and modern marvels. Walk the Great Wall, see the Terracotta Army in Xi'an, and explore the futuristic skylines of Shanghai. Best time: Spring (April-May) and Autumn (September-October).",
+      "metadata": {
+        "capital": "Beijing",
+        "country_code": "CN",
+        "lat": 39.9042,
+        "lon": 116.4074,
+        "image_url": "https://images.pexels.com/photos/2444852/pexels-photo-2444852.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "culture", "city life", "food", "architecture"],
+        "best_months": [4, 5, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Christmas Island",
+      "description": "Christmas Island, an Australian territory, is famous for its annual red crab migration, pristine rainforests, and excellent diving and snorkeling spots. Best time: April to November.",
+      "metadata": {
+        "capital": "Flying Fish Cove",
+        "country_code": "CX",
+        "lat": -10.4217,
+        "lon": 105.6791,
+        "image_url": "https://images.pexels.com/photos/1107717/pexels-photo-1107717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["wildlife", "diving", "snorkeling", "rainforest"],
+        "best_months": [4, 5, 6, 7, 8, 9, 10, 11],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Cocos (Keeling) Islands",
+      "description": "The Cocos (Keeling) Islands are a remote Australian territory in the Indian Ocean, offering idyllic white-sand beaches, kitesurfing, and a unique local culture. Best time: March to October.",
+      "metadata": {
+        "capital": "West Island",
+        "country_code": "CC",
+        "lat": -12.1865,
+        "lon": 96.8284,
+        "image_url": "https://images.pexels.com/photos/2372978/pexels-photo-2372978.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "kitesurfing", "islands", "culture"],
+        "best_months": [3, 4, 5, 6, 7, 8, 9, 10],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Colombia",
+      "description": "Colombia has shed its past to become a vibrant travel destination. Discover the colorful streets of Cartagena, the coffee region of Salento, and the bustling capital of Bogotá. Best time: December to March.",
+      "metadata": {
+        "capital": "Bogotá",
+        "country_code": "CO",
+        "lat": 4.7110,
+        "lon": -74.0721,
+        "image_url": "https://images.pexels.com/photos/1598463/pexels-photo-1598463.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["culture", "city life", "coffee", "history", "beaches"],
+        "best_months": [12, 1, 2, 3],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Comoros",
+      "description": "The Comoros is a volcanic archipelago off Africa’s east coast, with stunning beaches, rainforests, and a unique Swahili culture. Known for vanilla and ylang-ylang. Best time: May to November.",
+      "metadata": {
+        "capital": "Moroni",
+        "country_code": "KM",
+        "lat": -11.7022,
+        "lon": 43.2551,
+        "image_url": "https://images.pexels.com/photos/3408354/pexels-photo-3408354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "volcanoes", "rainforest", "culture"],
+        "best_months": [5, 6, 7, 8, 9, 10, 11],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Congo (Brazzaville)",
+      "description": "The Republic of the Congo offers vast, pristine rainforests in national parks like Odzala-Kokoua, a key sanctuary for lowland gorillas. Best time: June to September.",
+      "metadata": {
+        "capital": "Brazzaville",
+        "country_code": "CG",
+        "lat": -4.2634,
+        "lon": 15.2429,
+        "image_url": "https://images.pexels.com/photos/3225528/pexels-photo-3225528.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["rainforest", "wildlife", "gorillas", "national parks"],
+        "best_months": [6, 7, 8, 9],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Congo (Kinshasa)",
+      "description": "The Democratic Republic of Congo is a vast Central African country. Home to Virunga National Park, a sanctuary for mountain gorillas, and the active Nyiragongo volcano. Best time: June to September.",
+      "metadata": {
+        "capital": "Kinshasa",
+        "country_code": "CD",
+        "lat": -4.4419,
+        "lon": 15.2663,
+        "image_url": "https://images.pexels.com/photos/635539/pexels-photo-635539.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["gorillas", "volcanoes", "wildlife", "adventure"],
+        "best_months": [6, 7, 8, 9],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Cook Islands",
+      "description": "The Cook Islands are a nation in the South Pacific with strong ties to New Zealand. Explore the stunning Aitutaki Lagoon and the main island of Rarotonga. Best time: April to November.",
+      "metadata": {
+        "capital": "Avarua",
+        "country_code": "CK",
+        "lat": -21.2078,
+        "lon": -159.7733,
+        "image_url": "https://images.pexels.com/photos/1031336/pexels-photo-1031336.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["lagoons", "beaches", "snorkeling", "culture"],
+        "best_months": [4, 5, 6, 7, 8, 9, 10, 11],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Costa Rica",
+      "description": "Costa Rica is a rugged, rainforested Central American country with coastlines on the Caribbean and Pacific. A haven for ecotourism, with cloud forests in Monteverde and surfing in Tamarindo. Best time: December to April.",
+      "metadata": {
+        "capital": "San José",
+        "country_code": "CR",
+        "lat": 9.9281,
+        "lon": -84.0907,
+        "image_url": "https://images.pexels.com/photos/1126359/pexels-photo-1126359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["ecotourism", "rainforest", "wildlife", "surfing", "adventure"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Croatia",
+      "description": "Croatia is known for its stunning Adriatic coastline, with thousands of islands, historic walled cities like Dubrovnik, and the beautiful Plitvice Lakes National Park. Best time: May to June and September.",
+      "metadata": {
+        "capital": "Zagreb",
+        "country_code": "HR",
+        "lat": 45.8150,
+        "lon": 15.9819,
+        "image_url": "https://images.pexels.com/photos/290394/pexels-photo-290394.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["coastline", "islands", "history", "sailing", "national parks"],
+        "best_months": [5, 6, 9],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Cuba",
+      "description": "Cuba is a Caribbean island nation with a unique culture, classic American cars, and Spanish-colonial architecture in Havana. Explore the tobacco fields of Viñales. Best time: December to May.",
+      "metadata": {
+        "capital": "Havana",
+        "country_code": "CU",
+        "lat": 23.1136,
+        "lon": -82.3666,
+        "image_url": "https://images.pexels.com/photos/1484507/pexels-photo-1484507.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["culture", "history", "music", "beaches", "cars"],
+        "best_months": [12, 1, 2, 3, 4, 5],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Curaçao",
+      "description": "Curaçao is a Dutch Caribbean island known for its pastel-colored colonial architecture in Willemstad, expansive coral reefs for diving, and hidden cove-like beaches. Best time: Year-round, but May to November has fewer crowds.",
+      "metadata": {
+        "capital": "Willemstad",
+        "country_code": "CW",
+        "lat": 12.1696,
+        "lon": -68.9900,
+        "image_url": "https://images.pexels.com/photos/1672322/pexels-photo-1672322.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["architecture", "diving", "beaches", "culture"],
+        "best_months": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Cyprus",
+      "description": "Cyprus is an island in the Eastern Mediterranean with a rich history, beautiful beaches, and archaeological sites like the Tombs of the Kings. Best time: April to June and September to October.",
+      "metadata": {
+        "capital": "Nicosia",
+        "country_code": "CY",
+        "lat": 35.1856,
+        "lon": 33.3823,
+        "image_url": "https://images.pexels.com/photos/1078981/pexels-photo-1078981.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "beaches", "ruins", "food"],
+        "best_months": [4, 5, 6, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Czech Republic",
+      "description": "The Czech Republic is famous for the medieval architecture and vibrant nightlife of its capital, Prague, with its iconic Charles Bridge and Old Town Square. Best time: April to May and September to October.",
+      "metadata": {
+        "capital": "Prague",
+        "country_code": "CZ",
+        "lat": 50.0755,
+        "lon": 14.4378,
+        "image_url": "https://images.pexels.com/photos/1534057/pexels-photo-1534057.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "architecture", "city life", "nightlife", "castles"],
+        "best_months": [4, 5, 9, 10],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Denmark",
+      "description": "Denmark is a Scandinavian country known for its design, the concept of 'hygge,' and its capital, Copenhagen, home to Tivoli Gardens and the 'Little Mermaid' statue. Best time: May to August.",
+      "metadata": {
+        "capital": "Copenhagen",
+        "country_code": "DK",
+        "lat": 55.6761,
+        "lon": 12.5683,
+        "image_url": "https://images.pexels.com/photos/258196/pexels-photo-258196.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["design", "culture", "city life", "history", "islands"],
+        "best_months": [5, 6, 7, 8],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Djibouti",
+      "description": "Djibouti is a small nation on the Horn of Africa, with otherworldly landscapes like the salt lake Lac Assal and the limestone chimneys of Lac Abbé. Best time: November to March.",
+      "metadata": {
+        "capital": "Djibouti",
+        "country_code": "DJ",
+        "lat": 11.5890,
+        "lon": 43.1450,
+        "image_url": "https://images.pexels.com/photos/1574843/pexels-photo-1574843.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["landscapes", "lakes", "desert", "diving"],
+        "best_months": [11, 12, 1, 2, 3],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Dominica",
+      "description": "Dominica, the 'Nature Isle of the Caribbean,' is a paradise for hikers and ecotourists, with hot springs, rainforests, and the boiling lake. Best time: February to May.",
+      "metadata": {
+        "capital": "Roseau",
+        "country_code": "DM",
+        "lat": 15.3012,
+        "lon": -61.3883,
+        "image_url": "https://images.pexels.com/photos/3721644/pexels-photo-3721644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["hiking", "ecotourism", "hot springs", "rainforest", "diving"],
+        "best_months": [2, 3, 4, 5],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Dominican Republic",
+      "description": "The Dominican Republic is a Caribbean nation that shares the island of Hispaniola with Haiti. Known for its all-inclusive resorts in Punta Cana, historic colonial zone in Santo Domingo, and mountainous interior. Best time: December to April.",
+      "metadata": {
+        "capital": "Santo Domingo",
+        "country_code": "DO",
+        "lat": 18.4861,
+        "lon": -69.9312,
+        "image_url": "https://images.pexels.com/photos/1174732/pexels-photo-1174732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["resorts", "beaches", "history", "mountains", "dance"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Ecuador",
+      "description": "Ecuador is a country straddling the equator on South America’s west coast. Its diverse landscape encompasses the Amazon jungle, Andean highlands, and the wildlife-rich Galápagos Islands. Best time: June to September.",
+      "metadata": {
+        "capital": "Quito",
+        "country_code": "EC",
+        "lat": -0.1807,
+        "lon": -78.4678,
+        "image_url": "https://images.pexels.com/photos/2520829/pexels-photo-2520829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["jungle", "mountains", "wildlife", "islands", "volcanoes"],
+        "best_months": [6, 7, 8, 9],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Egypt",
+      "description": "Egypt, a country linking northeast Africa with the Middle East, dates to the time of the pharaohs. Millennia-old monuments sit along the fertile Nile River Valley, including Giza's colossal Pyramids and Great Sphinx. Best time: October to April.",
+      "metadata": {
+        "capital": "Cairo",
+        "country_code": "EG",
+        "lat": 30.0444,
+        "lon": 31.2357,
+        "image_url": "https://images.pexels.com/photos/39561/solar-flare-sun-eruption-energy-39561.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "ruins", "pyramids", "desert", "cruises"],
+        "best_months": [10, 11, 12, 1, 2, 3, 4],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "El Salvador",
+      "description": "El Salvador is a small Central American nation known for its Pacific Ocean beaches, surfing spots, and mountainous landscape. Explore the 'Ruta de las Flores.' Best time: November to April.",
+      "metadata": {
+        "capital": "San Salvador",
+        "country_code": "SV",
+        "lat": 13.6929,
+        "lon": -89.2182,
+        "image_url": "https://images.pexels.com/photos/2260212/pexels-photo-2260212.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "surfing", "mountains", "volcanoes", "culture"],
+        "best_months": [11, 12, 1, 2, 3, 4],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Equatorial Guinea",
+      "description": "Equatorial Guinea consists of a mainland portion and several islands. The capital, Malabo, on Bioko Island, has Spanish colonial architecture. Best time: December to February.",
+      "metadata": {
+        "capital": "Malabo",
+        "country_code": "GQ",
+        "lat": 3.7523,
+        "lon": 8.7741,
+        "image_url": "https://images.pexels.com/photos/103124/pexels-photo-103124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["islands", "architecture", "rainforest"],
+        "best_months": [12, 1, 2],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Eritrea",
+      "description": "Eritrea is a country on the Red Sea coast, known for its Italian colonial-era architecture in the capital, Asmara, and the Dahlak Archipelago. Best time: December to March.",
+      "metadata": {
+        "capital": "Asmara",
+        "country_code": "ER",
+        "lat": 15.3229,
+        "lon": 38.9251,
+        "image_url": "https://images.pexels.com/photos/1054289/pexels-photo-1054289.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["architecture", "history", "diving", "islands"],
+        "best_months": [12, 1, 2, 3],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Estonia",
+      "description": "Estonia is a Northern European country bordering the Baltic Sea and Gulf of Finland. Its capital, Tallinn, is known for its preserved Old Town and digital society. Best time: June to August.",
+      "metadata": {
+        "capital": "Tallinn",
+        "country_code": "EE",
+        "lat": 59.4370,
+        "lon": 24.7536,
+        "image_url": "https://images.pexels.com/photos/1660623/pexels-photo-1660623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "city life", "castles", "nature", "technology"],
+        "best_months": [6, 7, 8],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Eswatini (formerly Swaziland)",
+      "description": "Eswatini is a small, landlocked monarchy in southern Africa, known for its wilderness reserves and festivals showcasing traditional Swazi culture. Best time: May to September.",
+      "metadata": {
+        "capital": "Mbabane",
+        "country_code": "SZ",
+        "lat": -26.3054,
+        "lon": 31.1367,
+        "image_url": "https://images.pexels.com/photos/2341830/pexels-photo-2341830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["culture", "wildlife", "festivals", "hiking"],
+        "best_months": [5, 6, 7, 8, 9],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "description": "Ethiopia, in the Horn of Africa, is a rugged, landlocked country split by the Great Rift Valley. It's a place of ancient culture, with rock-hewn Christian churches in Lalibela. Best time: October to January.",
+      "metadata": {
+        "capital": "Addis Ababa",
+        "country_code": "ET",
+        "lat": 9.0054,
+        "lon": 38.7578,
+        "image_url": "https://images.pexels.com/photos/457850/pexels-photo-457850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "culture", "religion", "mountains", "coffee"],
+        "best_months": [10, 11, 12, 1],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Falkland Islands (Malvinas)",
+      "description": "The Falkland Islands are a remote South Atlantic archipelago, a British overseas territory known for its abundant wildlife, including penguins and seals. Best time: October to April.",
+      "metadata": {
+        "capital": "Stanley",
+        "country_code": "FK",
+        "lat": -51.6942,
+        "lon": -57.8510,
+        "image_url": "https://images.pexels.com/photos/1054398/pexels-photo-1054398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["wildlife", "penguins", "islands", "history"],
+        "best_months": [10, 11, 12, 1, 2, 3, 4],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Faroe Islands",
+      "description": "The Faroe Islands are a self-governing archipelago, part of the Kingdom of Denmark. They are known for their dramatic landscapes, puffin colonies, and grass-roofed houses. Best time: June to August.",
+      "metadata": {
+        "capital": "Tórshavn",
+        "country_code": "FO",
+        "lat": 62.0100,
+        "lon": -6.7700,
+        "image_url": "https://images.pexels.com/photos/258196/pexels-photo-258196.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["landscapes", "hiking", "wildlife", "culture"],
+        "best_months": [6, 7, 8],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Fiji",
+      "description": "Fiji, a country in the South Pacific, is an archipelago of more than 300 islands. It's famed for rugged landscapes, palm-lined beaches and coral reefs with clear lagoons. Best time: April to October.",
+      "metadata": {
+        "capital": "Suva",
+        "country_code": "FJ",
+        "lat": -18.1416,
+        "lon": 178.4419,
+        "image_url": "https://images.pexels.com/photos/386007/pexels-photo-386007.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "diving", "snorkeling", "islands", "romance"],
+        "best_months": [4, 5, 6, 7, 8, 9, 10],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Finland",
+      "description": "Finland is a Northern European nation bordering Sweden, Norway and Russia. Its central capital, Helsinki, occupies a peninsula and surrounding islands in the Baltic Sea. Visit Lapland to see the Northern Lights. Best time: June to August for summer, December to March for winter.",
+      "metadata": {
+        "capital": "Helsinki",
+        "country_code": "FI",
+        "lat": 60.1699,
+        "lon": 24.9384,
+        "image_url": "https://images.pexels.com/photos/2356045/pexels-photo-2356045.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["northern lights", "sauna", "lakes", "nature", "design"],
+        "best_months": [1, 2, 3, 6, 7, 8, 12],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "France",
+      "description": "France is famous for its sophisticated cuisine, high fashion, art museums like the Louvre, and iconic landmarks such as the Eiffel Tower in Paris and the French Riviera. Best time: April to June and September to November.",
+      "metadata": {
+        "capital": "Paris",
+        "country_code": "FR",
+        "lat": 48.8566,
+        "lon": 2.3522,
+        "image_url": "https://images.pexels.com/photos/161901/paris-log-pilgrim-france-161901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["food", "art", "city life", "history", "fashion", "wine"],
+        "best_months": [4, 5, 6, 9, 10, 11],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "French Guiana",
+      "description": "French Guiana is an overseas region of France on the northeast coast of South America, composed largely of tropical rainforest. It's known for the Guiana Space Centre. Best time: August to December.",
+      "metadata": {
+        "capital": "Cayenne",
+        "country_code": "GF",
+        "lat": 4.9372,
+        "lon": -52.3260,
+        "image_url": "https://images.pexels.com/photos/33045/lion-wild-africa-african.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["rainforest", "space", "adventure", "nature"],
+        "best_months": [8, 9, 10, 11, 12],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "French Polynesia",
+      "description": "French Polynesia, an overseas collectivity of France, comprises more than 100 islands in the South Pacific. Known for the overwater bungalows of Bora Bora and the black-sand beaches of Tahiti. Best time: June to August.",
+      "metadata": {
+        "capital": "Papeete",
+        "country_code": "PF",
+        "lat": -17.5350,
+        "lon": -149.5697,
+        "image_url": "https://images.pexels.com/photos/1287460/pexels-photo-1287460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["islands", "luxury", "beaches", "diving", "romance"],
+        "best_months": [6, 7, 8],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Gabon",
+      "description": "Gabon, a country along the Atlantic coast of Central Africa, has significant areas of protected parkland. The forested coastal terrain of its famed Loango National Park shelters a diversity of wildlife. Best time: June to September.",
+      "metadata": {
+        "capital": "Libreville",
+        "country_code": "GA",
+        "lat": 0.4162,
+        "lon": 9.4673,
+        "image_url": "https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["wildlife", "national parks", "rainforest", "beaches"],
+        "best_months": [6, 7, 8, 9],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Gambia",
+      "description": "The Gambia is a small West African country, bisected by the Gambia River and surrounded by Senegal. It's known for its diverse ecosystems around the central river. Best time: November to May.",
+      "metadata": {
+        "capital": "Banjul",
+        "country_code": "GM",
+        "lat": 13.4549,
+        "lon": -16.5790,
+        "image_url": "https://images.pexels.com/photos/34950/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["rivers", "wildlife", "bird watching", "beaches"],
+        "best_months": [11, 12, 1, 2, 3, 4, 5],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Georgia",
+      "description": "Georgia is a country at the intersection of Europe and Asia, a former Soviet republic that’s home to Caucasus Mountain villages and Black Sea beaches. Famous for its wine and the cave monastery of Vardzia. Best time: May to June and September.",
+      "metadata": {
+        "capital": "Tbilisi",
+        "country_code": "GE",
+        "lat": 41.7151,
+        "lon": 44.7837,
+        "image_url": "https://images.pexels.com/photos/2085831/pexels-photo-2085831.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["mountains", "wine", "history", "food", "monasteries"],
+        "best_months": [5, 6, 9],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Germany",
+      "description": "Germany is a Western European country with a landscape of forests, rivers, mountain ranges and North Sea beaches. It has over 2 millennia of history. Berlin, its capital, is home to art and nightlife scenes. Best time: May to September.",
+      "metadata": {
+        "capital": "Berlin",
+        "country_code": "DE",
+        "lat": 52.5200,
+        "lon": 13.4050,
+        "image_url": "https://images.pexels.com/photos/62600/pexels-photo-62600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "city life", "castles", "forests", "beer", "festivals"],
+        "best_months": [5, 6, 7, 8, 9],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Ghana",
+      "description": "Ghana is a country in West Africa, on the coast of the Gulf of Guinea. It's known for its diverse wildlife, old forts and secluded beaches, such as at Busua. Best time: November to March.",
+      "metadata": {
+        "capital": "Accra",
+        "country_code": "GH",
+        "lat": 5.6037,
+        "lon": -0.1870,
+        "image_url": "https://images.pexels.com/photos/1125269/pexels-photo-1125269.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "culture", "beaches", "wildlife", "music"],
+        "best_months": [11, 12, 1, 2, 3],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Gibraltar",
+      "description": "Gibraltar is a British Overseas Territory and headland on Spain's south coast. It’s dominated by the Rock of Gibraltar, a 426m-high limestone ridge. Best time: April to October.",
+      "metadata": {
+        "capital": "Gibraltar",
+        "country_code": "GI",
+        "lat": 36.1408,
+        "lon": -5.3536,
+        "image_url": "https://images.pexels.com/photos/1470405/pexels-photo-1470405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "caves", "nature", "wildlife"],
+        "best_months": [4, 5, 6, 7, 8, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Greece",
+      "description": "Greece is a country in southeastern Europe with thousands of islands throughout the Aegean and Ionian seas. Influential in ancient times, it's often called the cradle of Western civilization. Explore Athens and the islands of Santorini and Mykonos. Best time: April to June and September to October.",
+      "metadata": {
+        "capital": "Athens",
+        "country_code": "GR",
+        "lat": 37.9838,
+        "lon": 23.7275,
+        "image_url": "https://images.pexels.com/photos/1486785/pexels-photo-1486785.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["islands", "history", "beaches", "food", "ruins", "sailing"],
+        "best_months": [4, 5, 6, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Greenland",
+      "description": "Greenland is the world's largest island, located between the Arctic and Atlantic oceans. Most of its land surface is covered in ice. Known for dog-sledding, Northern Lights, and massive glaciers. Best time: June to August for hiking, February to April for winter activities.",
+      "metadata": {
+        "capital": "Nuuk",
+        "country_code": "GL",
+        "lat": 64.1835,
+        "lon": -51.7216,
+        "image_url": "https://images.pexels.com/photos/706222/pexels-photo-706222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["glaciers", "northern lights", "dog sledding", "icebergs", "adventure"],
+        "best_months": [2, 3, 4, 6, 7, 8],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Grenada",
+      "description": "Grenada is a Caribbean country comprising a main island, also called Grenada, and smaller surrounding islands. Dubbed the 'Spice Isle,' it's home to numerous nutmeg plantations. Best time: January to May.",
+      "metadata": {
+        "capital": "St. George's",
+        "country_code": "GD",
+        "lat": 12.0561,
+        "lon": -61.7488,
+        "image_url": "https://images.pexels.com/photos/1458564/pexels-photo-1458564.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["spices", "beaches", "sailing", "rainforest", "waterfalls"],
+        "best_months": [1, 2, 3, 4, 5],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Guadeloupe",
+      "description": "Guadeloupe, a French overseas region, is an island group in the southern Caribbean Sea. It resembles a butterfly from above, with its two main islands separated by the Salée River. Best time: December to May.",
+      "metadata": {
+        "capital": "Basse-Terre",
+        "country_code": "GP",
+        "lat": 16.0022,
+        "lon": -61.5941,
+        "image_url": "https://images.pexels.com/photos/2242698/pexels-photo-2242698.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "hiking", "volcanoes", "islands", "diving"],
+        "best_months": [12, 1, 2, 3, 4, 5],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Guam",
+      "description": "Guam is a U.S. island territory in Micronesia, in the Western Pacific. It's distinguished by tropical beaches, Chamorro culture and Spanish colonial-era architecture. Best time: January to May.",
+      "metadata": {
+        "capital": "Hagåtña",
+        "country_code": "GU",
+        "lat": 13.4756,
+        "lon": 144.7489,
+        "image_url": "https://images.pexels.com/photos/1632790/pexels-photo-1632790.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "diving", "culture", "history"],
+        "best_months": [1, 2, 3, 4, 5],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Guatemala",
+      "description": "Guatemala, a Central American country south of Mexico, is home to volcanoes, rainforests and ancient Mayan sites. The city of Antigua contains preserved Spanish colonial buildings. Best time: November to April.",
+      "metadata": {
+        "capital": "Guatemala City",
+        "country_code": "GT",
+        "lat": 14.6349,
+        "lon": -90.5069,
+        "image_url": "https://images.pexels.com/photos/3720953/pexels-photo-3720953.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["volcanoes", "rainforest", "ruins", "history", "culture", "lakes"],
+        "best_months": [11, 12, 1, 2, 3, 4],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Guernsey",
+      "description": "Guernsey is a British Crown dependency in the English Channel, off the coast of Normandy. It's known for its coastal cliffs, beach resorts and the history of Victor Hugo's exile. Best time: May to September.",
+      "metadata": {
+        "capital": "St. Peter Port",
+        "country_code": "GG",
+        "lat": 49.4598,
+        "lon": -2.5353,
+        "image_url": "https://images.pexels.com/photos/206359/pexels-photo-206359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["cliffs", "beaches", "history", "hiking"],
+        "best_months": [5, 6, 7, 8, 9],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Guinea",
+      "description": "Guinea is a country in West Africa, bordered on the west by the Atlantic Ocean. It's known for the Mount Nimba Strict Nature Reserve, in the southeast. Best time: November to April.",
+      "metadata": {
+        "capital": "Conakry",
+        "country_code": "GN",
+        "lat": 9.6412,
+        "lon": -13.5784,
+        "image_url": "https://images.pexels.com/photos/158651/news-report-journalist-press-158651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["nature reserve", "mountains", "wildlife", "culture"],
+        "best_months": [11, 12, 1, 2, 3, 4],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Guinea-Bissau",
+      "description": "Guinea-Bissau is a tropical country on West Africa’s Atlantic coast that’s known for national parks and wildlife. The forested, sparsely populated Bijagós archipelago is a protected biosphere reserve. Best time: November to April.",
+      "metadata": {
+        "capital": "Bissau",
+        "country_code": "GW",
+        "lat": 11.8828,
+        "lon": -15.6174,
+        "image_url": "https://images.pexels.com/photos/247599/pexels-photo-247599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["islands", "wildlife", "national parks", "culture"],
+        "best_months": [11, 12, 1, 2, 3, 4],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Guyana",
+      "description": "Guyana is a country on South America’s North Atlantic coast, defined by its dense rainforest. It's known for the majestic Kaieteur Falls. Best time: February to April and August to October.",
+      "metadata": {
+        "capital": "Georgetown",
+        "country_code": "GY",
+        "lat": 6.8013,
+        "lon": -58.1551,
+        "image_url": "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["rainforest", "waterfalls", "wildlife", "adventure"],
+        "best_months": [2, 3, 4, 8, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Haiti",
+      "description": "Haiti is a Caribbean country that shares the island of Hispaniola with the Dominican Republic to its east. It's known for its unique art and the 19th-century Citadelle Laferrière. Best time: November to March.",
+      "metadata": {
+        "capital": "Port-au-Prince",
+        "country_code": "HT",
+        "lat": 18.5944,
+        "lon": -72.2965,
+        "image_url": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["art", "history", "culture", "fortresses"],
+        "best_months": [11, 12, 1, 2, 3],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Honduras",
+      "description": "Honduras is a Central American country with Caribbean Sea coastlines to the north and the Pacific Ocean to the south. Known for the ancient Mayan ceremonial site Copán and premier diving in the Bay Islands. Best time: December to April.",
+      "metadata": {
+        "capital": "Tegucigalpa",
+        "country_code": "HN",
+        "lat": 14.0723,
+        "lon": -87.1921,
+        "image_url": "https://images.pexels.com/photos/1039478/pexels-photo-1039478.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["diving", "ruins", "beaches", "islands", "history"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Hong Kong",
+      "description": "Hong Kong is a vibrant city and special administrative region of China. Its dense, vertical skyline is a major financial hub, but it also offers hiking trails and beaches. Best time: October to December.",
+      "metadata": {
+        "capital": "Hong Kong",
+        "country_code": "HK",
+        "lat": 22.3193,
+        "lon": 114.1694,
+        "image_url": "https://images.pexels.com/photos/5608973/pexels-photo-5608973.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["city life", "food", "shopping", "hiking", "skyline"],
+        "best_months": [10, 11, 12],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Hungary",
+      "description": "Hungary is a landlocked country in Central Europe. Its capital, Budapest, is bisected by the Danube River. Its cityscape is studded with architectural landmarks from Buda’s medieval Castle Hill to Pest's Grand Neoclassical buildings. Best time: March to May and September to November.",
+      "metadata": {
+        "capital": "Budapest",
+        "country_code": "HU",
+        "lat": 47.4979,
+        "lon": 19.0402,
+        "image_url": "https://images.pexels.com/photos/1603632/pexels-photo-1603632.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["city life", "history", "architecture", "thermal baths", "rivers"],
+        "best_months": [3, 4, 5, 9, 10, 11],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Iceland",
+      "description": "Iceland, a Nordic island nation, is defined by its dramatic landscape with volcanoes, geysers, hot springs and lava fields. See the Northern Lights and bathe in the Blue Lagoon. Best time: June to August for summer, October to March for Northern Lights.",
+      "metadata": {
+        "capital": "Reykjavik",
+        "country_code": "IS",
+        "lat": 64.1466,
+        "lon": -21.9426,
+        "image_url": "https://images.pexels.com/photos/259976/pexels-photo-259976.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["northern lights", "volcanoes", "glaciers", "hot springs", "waterfalls", "hiking"],
+        "best_months": [1, 2, 3, 6, 7, 8, 9, 10, 11, 12],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "India",
+      "description": "India is a vast South Asian country with diverse terrain – from Himalayan peaks to Indian Ocean coastline. History reaches back 5 millennia. See the Taj Mahal in Agra, explore the holy city of Varanasi, and relax on the beaches of Goa. Best time: October to March.",
+      "metadata": {
+        "capital": "New Delhi",
+        "country_code": "IN",
+        "lat": 28.6139,
+        "lon": 77.2090,
+        "image_url": "https://images.pexels.com/photos/1007427/pexels-photo-1007427.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["culture", "history", "food", "spirituality", "mountains", "beaches"],
+        "best_months": [10, 11, 12, 1, 2, 3],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Indonesia",
+      "description": "Indonesia, a Southeast Asian nation made up of thousands of volcanic islands, is home to hundreds of ethnic groups speaking many different languages. Known for the beaches of Bali, komodo dragons, and the temples of Borobudur. Best time: May to September.",
+      "metadata": {
+        "capital": "Jakarta",
+        "country_code": "ID",
+        "lat": -6.2088,
+        "lon": 106.8456,
+        "image_url": "https://images.pexels.com/photos/3278215/pexels-photo-3278215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "volcanoes", "diving", "culture", "temples", "wildlife"],
+        "best_months": [5, 6, 7, 8, 9],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Iran",
+      "description": "Iran, also called Persia, is a country in Western Asia. It is home to one of the world's oldest civilizations. Explore the stunning architecture of Isfahan and the ancient ruins of Persepolis. Best time: March to May and September to November.",
+      "metadata": {
+        "capital": "Tehran",
+        "country_code": "IR",
+        "lat": 35.6892,
+        "lon": 51.3890,
+        "image_url": "https://images.pexels.com/photos/3881104/pexels-photo-3881104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "architecture", "culture", "ruins", "desert"],
+        "best_months": [3, 4, 5, 9, 10, 11],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Iraq",
+      "description": "Iraq is a country in Western Asia with a rich history as the cradle of civilization in Mesopotamia. Key historical sites include the ancient city of Babylon. Best time: March to April and October to November.",
+      "metadata": {
+        "capital": "Baghdad",
+        "country_code": "IQ",
+        "lat": 33.3152,
+        "lon": 44.3661,
+        "image_url": "https://images.pexels.com/photos/15949576/pexels-photo-15949576/free-photo-of-a-group-of-colorful-boats-on-the-water.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "ruins", "culture", "archaeology"],
+        "best_months": [3, 4, 10, 11],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Ireland",
+      "description": "Ireland is an island in the North Atlantic. It is separated from Great Britain to its east by the North Channel. Known for its lush green landscapes, dramatic cliffs of Moher, and vibrant pub culture in Dublin. Best time: May to September.",
+      "metadata": {
+        "capital": "Dublin",
+        "country_code": "IE",
+        "lat": 53.3498,
+        "lon": -6.2603,
+        "image_url": "https://images.pexels.com/photos/1108812/pexels-photo-1108812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["nature", "castles", "history", "music", "pubs", "hiking"],
+        "best_months": [5, 6, 7, 8, 9],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Isle of Man",
+      "description": "The Isle of Man is a self-governing British Crown dependency in the Irish Sea between Great Britain and Ireland. It’s known for its rugged coastline, medieval castles and the annual TT motorcycle race. Best time: May to September.",
+      "metadata": {
+        "capital": "Douglas",
+        "country_code": "IM",
+        "lat": 54.1522,
+        "lon": -4.4820,
+        "image_url": "https://images.pexels.com/photos/534124/pexels-photo-534124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["motorcycle race", "castles", "coastline", "hiking"],
+        "best_months": [5, 6, 7, 8, 9],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Israel",
+      "description": "Israel, a Middle Eastern country on the Mediterranean Sea, is regarded by Jews, Christians and Muslims as the biblical Holy Land. Its most sacred sites are in Jerusalem. Explore Tel Aviv's beaches and nightlife. Best time: April to May and September to October.",
+      "metadata": {
+        "capital": "Jerusalem",
+        "country_code": "IL",
+        "lat": 31.7683,
+        "lon": 35.2137,
+        "image_url": "https://images.pexels.com/photos/208552/pexels-photo-208552.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "religion", "beaches", "city life", "food"],
+        "best_months": [4, 5, 9, 10],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Italy",
+      "description": "Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine. Rome is home to the Vatican, art and ancient ruins. Other major cities include Florence and Venice. Best time: April to June and September to October.",
+      "metadata": {
+        "capital": "Rome",
+        "country_code": "IT",
+        "lat": 41.9028,
+        "lon": 12.4964,
+        "image_url": "https://images.pexels.com/photos/147413/italy-mountains-dawn-daybreak-147413.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["food", "history", "art", "ruins", "city life", "coastline"],
+        "best_months": [4, 5, 6, 9, 10],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Jamaica",
+      "description": "Jamaica, a Caribbean island nation, has a lush topography of mountains, rainforests and reef-lined beaches. Many of its all-inclusive resorts are clustered in Montego Bay. It's famed as the birthplace of reggae music. Best time: December to April.",
+      "metadata": {
+        "capital": "Kingston",
+        "country_code": "JM",
+        "lat": 17.9837,
+        "lon": -76.7936,
+        "image_url": "https://images.pexels.com/photos/1007657/pexels-photo-1007657.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["music", "beaches", "resorts", "mountains", "rainforest"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Japan",
+      "description": "Japan is an island country in East Asia. It's known for its imperial palaces, mountainous national parks and thousands of shrines and temples. Experience the bustling city of Tokyo, the serene temples of Kyoto, and the ski slopes of Hokkaido. Best time: March to May and September to November.",
+      "metadata": {
+        "capital": "Tokyo",
+        "country_code": "JP",
+        "lat": 35.6895,
+        "lon": 139.6917,
+        "image_url": "https://images.pexels.com/photos/21014/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["culture", "food", "temples", "city life", "mountains", "skiing"],
+        "best_months": [3, 4, 5, 9, 10, 11],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Jersey",
+      "description": "Jersey is a British Crown dependency in the English Channel. It's the largest of the Channel Islands, known for its beaches, cliffside walking trails, and WWII history. Best time: May to September.",
+      "metadata": {
+        "capital": "Saint Helier",
+        "country_code": "JE",
+        "lat": 49.1812,
+        "lon": -2.1100,
+        "image_url": "https://images.pexels.com/photos/33545/sunrise-phu-quoc-island-ocean.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "hiking", "history", "coastline"],
+        "best_months": [5, 6, 7, 8, 9],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Jordan",
+      "description": "Jordan is an Arab nation on the east bank of the Jordan River. It's defined by ancient monuments, nature reserves and seaside resorts. Home to the famed archaeological site of Petra, the Nabatean capital dating to around 300 B.C. Best time: March to May and September to November.",
+      "metadata": {
+        "capital": "Amman",
+        "country_code": "JO",
+        "lat": 31.9454,
+        "lon": 35.9284,
+        "image_url": "https://images.pexels.com/photos/1547739/pexels-photo-1547739.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "ruins", "desert", "adventure", "diving"],
+        "best_months": [3, 4, 5, 9, 10, 11],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Kazakhstan",
+      "description": "Kazakhstan, a Central Asian country and former Soviet republic, extends from the Caspian Sea in the west to the Altai Mountains at its eastern border with China and Russia. Explore modern Nur-Sultan and the natural beauty of Charyn Canyon. Best time: April to September.",
+      "metadata": {
+        "capital": "Astana",
+        "country_code": "KZ",
+        "lat": 51.1694,
+        "lon": 71.4491,
+        "image_url": "https://images.pexels.com/photos/2098299/pexels-photo-2098299.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["mountains", "nature", "canyons", "city life", "culture"],
+        "best_months": [4, 5, 6, 7, 8, 9],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Kenya",
+      "description": "Kenya is a country in East Africa with a coastline on the Indian Ocean. It encompasses savanna, lakelands, the dramatic Great Rift Valley and mountain highlands. It's home to wildlife like lions, elephants and rhinos. Best time: June to October for safari.",
+      "metadata": {
+        "capital": "Nairobi",
+        "country_code": "KE",
+        "lat": -1.2921,
+        "lon": 36.8219,
+        "image_url": "https://images.pexels.com/photos/1583582/pexels-photo-1583582.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["safari", "wildlife", "mountains", "beaches", "culture"],
+        "best_months": [6, 7, 8, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Kiribati",
+      "description": "Kiribati, an island republic in the Central Pacific, includes 33 coral atolls and reef islands. It's known for world-class fishing and bird-watching. Best time: April to October.",
+      "metadata": {
+        "capital": "South Tarawa",
+        "country_code": "KI",
+        "lat": 1.3533,
+        "lon": 172.9789,
+        "image_url": "https://images.pexels.com/photos/1591373/pexels-photo-1591373.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["fishing", "bird watching", "islands", "diving"],
+        "best_months": [4, 5, 6, 7, 8, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Kuwait",
+      "description": "Kuwait, an Arab country on the Persian (Arabian) Gulf, has a cultural heritage dating back to antiquity. The capital, Kuwait City, is known for its modern architecture, including the iconic Kuwait Towers. Best time: November to March.",
+      "metadata": {
+        "capital": "Kuwait City",
+        "country_code": "KW",
+        "lat": 29.3759,
+        "lon": 47.9774,
+        "image_url": "https://images.pexels.com/photos/2507007/pexels-photo-2507007.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["architecture", "city life", "culture", "shopping"],
+        "best_months": [11, 12, 1, 2, 3],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Kyrgyzstan",
+      "description": "Kyrgyzstan is a rugged Central Asian country along the Silk Road, the ancient trade route between China and the Mediterranean. Its mountainous terrain is home to snow leopards and lynx. Best time: June to September for trekking.",
+      "metadata": {
+        "capital": "Bishkek",
+        "country_code": "KG",
+        "lat": 42.8746,
+        "lon": 74.5698,
+        "image_url": "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["mountains", "trekking", "wildlife", "culture", "history"],
+        "best_months": [6, 7, 8, 9],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Laos",
+      "description": "Laos is a Southeast Asian country traversed by the Mekong River and known for mountainous terrain, French colonial architecture, hill tribe settlements and Buddhist monasteries. Explore the serene city of Luang Prabang. Best time: October to April.",
+      "metadata": {
+        "capital": "Vientiane",
+        "country_code": "LA",
+        "lat": 17.9749,
+        "lon": 102.6309,
+        "image_url": "https://images.pexels.com/photos/2867543/pexels-photo-2867543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["monasteries", "mountains", "culture", "rivers", "history"],
+        "best_months": [10, 11, 12, 1, 2, 3, 4],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Latvia",
+      "description": "Latvia is a country on the Baltic Sea between Lithuania and Estonia. Its landscape is marked by wide beaches as well as dense, sprawling forests. Riga, the capital, is home to notable wooden and art nouveau architecture. Best time: June to August.",
+      "metadata": {
+        "capital": "Riga",
+        "country_code": "LV",
+        "lat": 56.9496,
+        "lon": 24.1052,
+        "image_url": "https://images.pexels.com/photos/2188012/pexels-photo-2188012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["architecture", "city life", "beaches", "forests", "history"],
+        "best_months": [6, 7, 8],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Lebanon",
+      "description": "Lebanon is a Middle Eastern country on the Mediterranean Sea. It's known for its rich history, delicious cuisine, and the ancient ruins of Baalbek and Byblos. Best time: April to June and September to November.",
+      "metadata": {
+        "capital": "Beirut",
+        "country_code": "LB",
+        "lat": 33.8938,
+        "lon": 35.5018,
+        "image_url": "https://images.pexels.com/photos/1707213/pexels-photo-1707213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "food", "ruins", "nightlife", "city life"],
+        "best_months": [4, 5, 6, 9, 10, 11],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Lesotho",
+      "description": "Lesotho, a high-altitude, landlocked kingdom encircled by South Africa, is crisscrossed by a network of rivers and mountain ranges. Known for pony trekking and stunning mountain passes. Best time: October to April.",
+      "metadata": {
+        "capital": "Maseru",
+        "country_code": "LS",
+        "lat": -29.3142,
+        "lon": 27.4869,
+        "image_url": "https://images.pexels.com/photos/167699/pexels-photo-167699.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["mountains", "hiking", "pony trekking", "culture"],
+        "best_months": [10, 11, 12, 1, 2, 3, 4],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Liberia",
+      "description": "Liberia is a country in West Africa, bordering Sierra Leone, Guinea and Côte d'Ivoire. On the Atlantic coast, the capital city of Monrovia is home to the Liberia National Museum. Best time: November to April.",
+      "metadata": {
+        "capital": "Monrovia",
+        "country_code": "LR",
+        "lat": 6.3003,
+        "lon": -10.7954,
+        "image_url": "https://images.pexels.com/photos/414144/pexels-photo-414144.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "beaches", "surfing", "nature"],
+        "best_months": [11, 12, 1, 2, 3, 4],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Libya",
+      "description": "Libya is a country in the Maghreb region of North Africa. It is home to the spectacular Roman ruins of Leptis Magna and Sabratha. Best time: November to March.",
+      "metadata": {
+        "capital": "Tripoli",
+        "country_code": "LY",
+        "lat": 32.8872,
+        "lon": 13.1913,
+        "image_url": "https://images.pexels.com/photos/1287145/pexels-photo-1287145.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["ruins", "history", "desert", "archaeology"],
+        "best_months": [11, 12, 1, 2, 3],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Liechtenstein",
+      "description": "Liechtenstein is a German-speaking, 25km-long principality between Austria and Switzerland. It's known for its medieval castles, alpine chalets and a network of trails. Best time: April to October for hiking, December to March for skiing.",
+      "metadata": {
+        "capital": "Vaduz",
+        "country_code": "LI",
+        "lat": 47.1410,
+        "lon": 9.5215,
+        "image_url": "https://images.pexels.com/photos/1126384/pexels-photo-1126384.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["castles", "hiking", "skiing", "mountains"],
+        "best_months": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Lithuania",
+      "description": "Lithuania, a country in the Baltic region of Europe, is known for its landscape, flatlands, and numerous lakes and forests. Its capital, Vilnius, features a medieval Old Town. Best time: June to August.",
+      "metadata": {
+        "capital": "Vilnius",
+        "country_code": "LT",
+        "lat": 54.6872,
+        "lon": 25.2797,
+        "image_url": "https://images.pexels.com/photos/459038/pexels-photo-459038.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "city life", "lakes", "forests", "castles"],
+        "best_months": [6, 7, 8],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Luxembourg",
+      "description": "Luxembourg is a small European country, bordered by Belgium, France and Germany. It's mostly rural, with dense Ardennes forest and nature parks in the north, and the rocky gorges of the Mullerthal region in the east. Best time: May to September.",
+      "metadata": {
+        "capital": "Luxembourg",
+        "country_code": "LU",
+        "lat": 49.6116,
+        "lon": 6.1319,
+        "image_url": "https://images.pexels.com/photos/208595/pexels-photo-208595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["castles", "hiking", "forests", "history", "nature"],
+        "best_months": [5, 6, 7, 8, 9],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Macau",
+      "description": "Macau is an autonomous region on the south coast of China, across the Pearl River Delta from Hong Kong. A Portuguese territory until 1999, it reflects a mix of cultural influences. Its giant casinos and malls have earned it the nickname, 'Las Vegas of Asia.' Best time: October to December.",
+      "metadata": {
+        "capital": "Macau",
+        "country_code": "MO",
+        "lat": 22.1987,
+        "lon": 113.5439,
+        "image_url": "https://images.pexels.com/photos/1039083/pexels-photo-1039083.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["casinos", "shopping", "food", "history", "city life"],
+        "best_months": [10, 11, 12],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Madagascar",
+      "description": "Madagascar, an island country off the southeastern coast of Africa, is home to thousands of animal species, such as lemurs, found nowhere else. Its landscape is incredibly diverse. Best time: April to October.",
+      "metadata": {
+        "capital": "Antananarivo",
+        "country_code": "MG",
+        "lat": -18.8792,
+        "lon": 47.5079,
+        "image_url": "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["wildlife", "lemurs", "rainforest", "beaches", "nature"],
+        "best_months": [4, 5, 6, 7, 8, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Malawi",
+      "description": "Malawi, a landlocked country in southeastern Africa, is defined by its topography of highlands split by the Great Rift Valley and enormous Lake Malawi. Known as the 'Warm Heart of Africa.' Best time: May to October.",
+      "metadata": {
+        "capital": "Lilongwe",
+        "country_code": "MW",
+        "lat": -13.9626,
+        "lon": 33.7741,
+        "image_url": "https://images.pexels.com/photos/3274903/pexels-photo-3274903.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["lakes", "hiking", "wildlife", "culture"],
+        "best_months": [5, 6, 7, 8, 9, 10],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Malaysia",
+      "description": "Malaysia is a Southeast Asian country occupying parts of the Malay Peninsula and the island of Borneo. It's known for its beaches, rainforests and mix of Malay, Chinese, Indian and European cultural influences. Best time: Varies by region.",
+      "metadata": {
+        "capital": "Kuala Lumpur",
+        "country_code": "MY",
+        "lat": 3.1390,
+        "lon": 101.6869,
+        "image_url": "https://images.pexels.com/photos/2205912/pexels-photo-2205912.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["food", "rainforest", "beaches", "city life", "culture", "diving"],
+        "best_months": [3, 4, 5, 6, 7, 8, 9],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Maldives",
+      "description": "The Maldives, a tropical nation in the Indian Ocean, is composed of 26 ring-shaped atolls, which are made up of more than 1,000 coral islands. It’s known for its beaches, blue lagoons and extensive reefs. Best time: November to April.",
+      "metadata": {
+        "capital": "Malé",
+        "country_code": "MV",
+        "lat": 4.1755,
+        "lon": 73.5093,
+        "image_url": "https://images.pexels.com/photos/1483024/pexels-photo-1483024.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["luxury", "beaches", "diving", "snorkeling", "romance"],
+        "best_months": [11, 12, 1, 2, 3, 4],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Mali",
+      "description": "Mali, a landlocked country in West Africa, is known for the ancient city of Timbuktu and the unique mud-brick architecture of Djenné. Best time: November to February.",
+      "metadata": {
+        "capital": "Bamako",
+        "country_code": "ML",
+        "lat": 12.6392,
+        "lon": -8.0029,
+        "image_url": "https://images.pexels.com/photos/259200/pexels-photo-259200.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "culture", "desert", "architecture"],
+        "best_months": [11, 12, 1, 2],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Malta",
+      "description": "Malta is an archipelago in the central Mediterranean between Sicily and the North African coast. It's a nation known for historic sites related to a succession of rulers including the Romans, Moors, Knights of Saint John, French and British. Best time: April to June and September to October.",
+      "metadata": {
+        "capital": "Valletta",
+        "country_code": "MT",
+        "lat": 35.8989,
+        "lon": 14.5146,
+        "image_url": "https://images.pexels.com/photos/267961/pexels-photo-267961.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "diving", "beaches", "architecture", "culture"],
+        "best_months": [4, 5, 6, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Marshall Islands",
+      "description": "The Marshall Islands are a sprawling chain of volcanic islands and coral atolls in the central Pacific Ocean. Known for scuba diving among WWII shipwrecks. Best time: May to October.",
+      "metadata": {
+        "capital": "Majuro",
+        "country_code": "MH",
+        "lat": 7.1147,
+        "lon": 171.3785,
+        "image_url": "https://images.pexels.com/photos/931018/pexels-photo-931018.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["diving", "history", "islands", "fishing"],
+        "best_months": [5, 6, 7, 8, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Martinique",
+      "description": "Martinique is a rugged Caribbean island that’s part of the Lesser Antilles. An overseas region of France, its culture reflects a distinctive blend of French and West Indian influences. Best time: December to May.",
+      "metadata": {
+        "capital": "Fort-de-France",
+        "country_code": "MQ",
+        "lat": 14.6161,
+        "lon": -61.0588,
+        "image_url": "https://images.pexels.com/photos/103566/pexels-photo-103566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "hiking", "volcanoes", "food", "culture"],
+        "best_months": [12, 1, 2, 3, 4, 5],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Mauritania",
+      "description": "Mauritania, a country in Northwest Africa, is largely covered by the Sahara desert. It is famous for the 'Iron Ore Train' and the ancient caravan city of Chinguetti. Best time: November to March.",
+      "metadata": {
+        "capital": "Nouakchott",
+        "country_code": "MR",
+        "lat": 18.0735,
+        "lon": -15.9582,
+        "image_url": "https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["desert", "adventure", "history", "culture"],
+        "best_months": [11, 12, 1, 2, 3],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Mauritius",
+      "description": "Mauritius, an Indian Ocean island nation, is known for its beaches, lagoons and reefs. The mountainous interior includes Black River Gorges National Park, with rainforests, waterfalls, hiking trails and wildlife. Best time: May to December.",
+      "metadata": {
+        "capital": "Port Louis",
+        "country_code": "MU",
+        "lat": -20.1691,
+        "lon": 57.5012,
+        "image_url": "https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "luxury", "hiking", "waterfalls", "wildlife", "golf"],
+        "best_months": [5, 6, 7, 8, 9, 10, 11, 12],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Mayotte",
+      "description": "Mayotte is an archipelago in the Indian Ocean between Madagascar and the coast of Mozambique. It’s a department of France, known for its coral reef and volcanic landscapes. Best time: May to October.",
+      "metadata": {
+        "capital": "Mamoudzou",
+        "country_code": "YT",
+        "lat": -12.7808,
+        "lon": 45.2278,
+        "image_url": "https://images.pexels.com/photos/221523/pexels-photo-221523.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["diving", "beaches", "lagoons", "volcanoes", "wildlife"],
+        "best_months": [5, 6, 7, 8, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Mexico",
+      "description": "Mexico is a country between the U.S. and Central America, known for Pacific and Gulf of Mexico beaches and a diverse landscape of mountains, deserts and jungles. Ancient ruins such as Teotihuacán and the Mayan city of Chichén Itzá are scattered throughout. Best time: December to April.",
+      "metadata": {
+        "capital": "Mexico City",
+        "country_code": "MX",
+        "lat": 19.4326,
+        "lon": -99.1332,
+        "image_url": "https://images.pexels.com/photos/1112080/pexels-photo-1112080.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["food", "ruins", "beaches", "culture", "history", "diving"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Micronesia",
+      "description": "The Federated States of Micronesia is a country spread across the western Pacific Ocean comprising more than 600 islands. It’s known for ancient ruins and wreck-filled dives. Best time: December to April.",
+      "metadata": {
+        "capital": "Palikir",
+        "country_code": "FM",
+        "lat": 6.9184,
+        "lon": 158.1852,
+        "image_url": "https://images.pexels.com/photos/1078983/pexels-photo-1078983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["diving", "ruins", "islands", "culture"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Moldova",
+      "description": "Moldova is an Eastern European country and former Soviet republic, with varied terrain including forests, rocky hills and vineyards. Its wine regions include Nistreana, known for reds. Best time: May to September.",
+      "metadata": {
+        "capital": "Chisinau",
+        "country_code": "MD",
+        "lat": 47.0105,
+        "lon": 28.8638,
+        "image_url": "https://images.pexels.com/photos/164336/pexels-photo-164336.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["wine", "monasteries", "history", "countryside"],
+        "best_months": [5, 6, 7, 8, 9],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Monaco",
+      "description": "Monaco is an independent city-state on France’s Mediterranean coastline known for its upscale casinos, yacht-lined harbor and prestigious Grand Prix motor race. Best time: April to October.",
+      "metadata": {
+        "capital": "Monaco",
+        "country_code": "MC",
+        "lat": 43.7384,
+        "lon": 7.4246,
+        "image_url": "https://images.pexels.com/photos/315998/pexels-photo-315998.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["luxury", "casinos", "yachts", "city life", "events"],
+        "best_months": [4, 5, 6, 7, 8, 9, 10],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Mongolia",
+      "description": "Mongolia, a nation bordered by China and Russia, is known for vast, rugged expanses and nomadic culture. Its capital, Ulaanbaatar, centers around Chinggis Khaan (Genghis Khan) Square. Best time: June to August.",
+      "metadata": {
+        "capital": "Ulaanbaatar",
+        "country_code": "MN",
+        "lat": 47.9185,
+        "lon": 106.9177,
+        "image_url": "https://images.pexels.com/photos/2361/nature-animal-strength-power.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["nomadic culture", "adventure", "desert", "history", "nature"],
+        "best_months": [6, 7, 8],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Montenegro",
+      "description": "Montenegro is a Balkan country with rugged mountains, medieval villages and a narrow strip of beaches along its Adriatic coastline. The Bay of Kotor is a fjord-like bay with coastal churches and fortified towns. Best time: May to September.",
+      "metadata": {
+        "capital": "Podgorica",
+        "country_code": "ME",
+        "lat": 42.4304,
+        "lon": 19.2594,
+        "image_url": "https://images.pexels.com/photos/159850/svetistefan-montenegro-sea-adriatic-159850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["mountains", "beaches", "history", "hiking", "coastline"],
+        "best_months": [5, 6, 7, 8, 9],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Montserrat",
+      "description": "Montserrat is a mountainous Caribbean island—part of the Lesser Antilles chain. It's known for the Soufrière Hills volcano and an 'exclusion zone' covering the former capital, Plymouth. Best time: December to April.",
+      "metadata": {
+        "capital": "Plymouth",
+        "country_code": "MS",
+        "lat": 16.7064,
+        "lon": -62.2155,
+        "image_url": "https://images.pexels.com/photos/1029821/pexels-photo-1029821.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["volcanoes", "hiking", "history", "nature"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Morocco",
+      "description": "Morocco, a North African country bordering the Atlantic Ocean and Mediterranean Sea, is distinguished by its Berber, Arabian and European cultural influences. Explore the vibrant souks of Marrakesh and the blue city of Chefchaouen. Best time: March to May and September to October.",
+      "metadata": {
+        "capital": "Rabat",
+        "country_code": "MA",
+        "lat": 34.0209,
+        "lon": -6.8416,
+        "image_url": "https://images.pexels.com/photos/3889852/pexels-photo-3889852.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["culture", "markets", "desert", "mountains", "food", "history"],
+        "best_months": [3, 4, 5, 9, 10],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Mozambique",
+      "description": "Mozambique is a southern African nation whose long Indian Ocean coastline is dotted with popular beaches like Tofo, as well as offshore marine parks. Best time: May to November.",
+      "metadata": {
+        "capital": "Maputo",
+        "country_code": "MZ",
+        "lat": -25.9692,
+        "lon": 32.5732,
+        "image_url": "https://images.pexels.com/photos/2583852/pexels-photo-2583852.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "diving", "wildlife", "culture", "history"],
+        "best_months": [5, 6, 7, 8, 9, 10, 11],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Myanmar (formerly Burma)",
+      "description": "Myanmar is a Southeast Asian nation of more than 100 ethnic groups. It's known for its pagodas, especially the thousands of temples that dot the plains of Bagan. Best time: November to February.",
+      "metadata": {
+        "capital": "Naypyidaw",
+        "country_code": "MM",
+        "lat": 19.7633,
+        "lon": 96.0785,
+        "image_url": "https://images.pexels.com/photos/210206/pexels-photo-210206.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["temples", "culture", "history", "Buddhism"],
+        "best_months": [11, 12, 1, 2],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Namibia",
+      "description": "Namibia, a country in southwest Africa, is distinguished by the Namib Desert along its Atlantic Ocean coast. The country is home to diverse wildlife, including a significant cheetah population. See the giant red dunes of Sossusvlei. Best time: May to October.",
+      "metadata": {
+        "capital": "Windhoek",
+        "country_code": "NA",
+        "lat": -22.5594,
+        "lon": 17.0832,
+        "image_url": "https://images.pexels.com/photos/33152/canberra-hot-air-balloon-festival.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["desert", "dunes", "wildlife", "safari", "photography"],
+        "best_months": [5, 6, 7, 8, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Nauru",
+      "description": "Nauru is a tiny island country in Micronesia, northeast of Australia. It features a coral reef and white-sand beaches fringed with palms, including Anibare Bay on the east coast. Best time: March to October.",
+      "metadata": {
+        "capital": "Yaren",
+        "country_code": "NR",
+        "lat": -0.5477,
+        "lon": 166.9209,
+        "image_url": "https://images.pexels.com/photos/240526/pexels-photo-240526.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["islands", "beaches", "diving"],
+        "best_months": [3, 4, 5, 6, 7, 8, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Nepal",
+      "description": "Nepal is a landlocked country in South Asia. It is mainly situated in the Himalayas, but also includes parts of the Indo-Gangetic Plain. It is home to Mount Everest, the world's highest peak, making it a hub for mountaineering and trekking. Best time: October to November for trekking.",
+      "metadata": {
+        "capital": "Kathmandu",
+        "country_code": "NP",
+        "lat": 27.7172,
+        "lon": 85.3240,
+        "image_url": "https://images.pexels.com/photos/4321831/pexels-photo-4321831.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["mountains", "trekking", "hiking", "spirituality", "culture"],
+        "best_months": [10, 11],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Netherlands",
+      "description": "The Netherlands, a country in northwestern Europe, is known for a flat landscape of canals, tulip fields, windmills and cycling routes. Amsterdam, the capital, is home to the Rijksmuseum, Van Gogh Museum and the house where Jewish diarist Anne Frank hid during WWII. Best time: April to October.",
+      "metadata": {
+        "capital": "Amsterdam",
+        "country_code": "NL",
+        "lat": 52.3676,
+        "lon": 4.9041,
+        "image_url": "https://images.pexels.com/photos/681335/pexels-photo-681335.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["canals", "art", "city life", "cycling", "history"],
+        "best_months": [4, 5, 6, 7, 8, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "New Caledonia",
+      "description": "New Caledonia, a French territory comprising dozens of islands in the South Pacific, is known for its palm-lined beaches and marine-life-rich lagoon, which is among the world's largest. Best time: September to November.",
+      "metadata": {
+        "capital": "Nouméa",
+        "country_code": "NC",
+        "lat": -22.2758,
+        "lon": 166.4582,
+        "image_url": "https://images.pexels.com/photos/753626/pexels-photo-753626.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["lagoons", "beaches", "diving", "sailing", "culture"],
+        "best_months": [9, 10, 11],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "New Zealand",
+      "description": "New Zealand is an island country in the southwestern Pacific Ocean. It consists of two main landmasses—the North Island and the South Island—and around 600 smaller islands. Known for its stunning landscapes, from the fiords of Milford Sound to the geothermal wonders of Rotorua. A hub for adventure sports. Best time: December to February.",
+      "metadata": {
+        "capital": "Wellington",
+        "country_code": "NZ",
+        "lat": -41.2865,
+        "lon": 174.7762,
+        "image_url": "https://images.pexels.com/photos/408951/pexels-photo-408951.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["adventure", "hiking", "mountains", "landscapes", "lord of the rings"],
+        "best_months": [12, 1, 2],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Nicaragua",
+      "description": "Nicaragua, set between the Pacific Ocean and the Caribbean Sea, is a Central American nation known for its dramatic terrain of lakes, volcanoes and beaches. Explore the colonial city of Granada and go volcano boarding on Cerro Negro. Best time: November to April.",
+      "metadata": {
+        "capital": "Managua",
+        "country_code": "NI",
+        "lat": 12.1150,
+        "lon": -86.2362,
+        "image_url": "https://images.pexels.com/photos/1004665/pexels-photo-1004665.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["volcanoes", "lakes", "beaches", "surfing", "adventure", "history"],
+        "best_months": [11, 12, 1, 2, 3, 4],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Niger",
+      "description": "Niger, a landlocked country in West Africa, is named after the Niger River. It is known for its stark desert landscapes, including the Aïr Mountains and the Ténéré desert. Best time: October to March.",
+      "metadata": {
+        "capital": "Niamey",
+        "country_code": "NE",
+        "lat": 13.5116,
+        "lon": 2.1254,
+        "image_url": "https://images.pexels.com/photos/258352/pexels-photo-258352.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["desert", "mountains", "culture", "history"],
+        "best_months": [10, 11, 12, 1, 2, 3],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Nigeria",
+      "description": "Nigeria, an African country on the Gulf of Guinea, has many natural landmarks and wildlife reserves. It is Africa's most populous country, known for its vibrant culture, music, and film industry (Nollywood). Best time: November to January.",
+      "metadata": {
+        "capital": "Abuja",
+        "country_code": "NG",
+        "lat": 9.0765,
+        "lon": 7.3986,
+        "image_url": "https://images.pexels.com/photos/1655901/pexels-photo-1655901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["culture", "music", "city life", "wildlife", "nature"],
+        "best_months": [11, 12, 1],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Niue",
+      "description": "Niue is a small island nation in the South Pacific Ocean. It's known for its limestone cliffs and coral-reef dive sites. Migrating whales swim in Niue's waters between July and October. Best time: May to October.",
+      "metadata": {
+        "capital": "Alofi",
+        "country_code": "NU",
+        "lat": -19.0558,
+        "lon": -169.9209,
+        "image_url": "https://images.pexels.com/photos/1534088/pexels-photo-1534088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["diving", "whales", "caves", "cliffs", "nature"],
+        "best_months": [5, 6, 7, 8, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Norfolk Island",
+      "description": "Norfolk Island is a small island in the Pacific Ocean located between Australia, New Zealand, and New Caledonia. It is an external territory of Australia, known for its pine trees and rugged cliffs. Best time: October to March.",
+      "metadata": {
+        "capital": "Kingston",
+        "country_code": "NF",
+        "lat": -29.0545,
+        "lon": 167.9656,
+        "image_url": "https://images.pexels.com/photos/789382/pexels-photo-789382.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "nature", "cliffs", "beaches"],
+        "best_months": [10, 11, 12, 1, 2, 3],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "North Korea",
+      "description": "North Korea, officially the Democratic People's Republic of Korea, is a country in East Asia. It is known for its highly controlled society and grand socialist-realist architecture in Pyongyang. Travel is heavily restricted. Best time: April to October.",
+      "metadata": {
+        "capital": "Pyongyang",
+        "country_code": "KP",
+        "lat": 39.0392,
+        "lon": 125.7625,
+        "image_url": "https://images.pexels.com/photos/356844/pexels-photo-356844.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["architecture", "culture", "history"],
+        "best_months": [4, 5, 6, 7, 8, 9, 10],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "North Macedonia",
+      "description": "North Macedonia is a country in the Balkan Peninsula in Southeast Europe. It's known for its mountains, lakes and ancient towns with Ottoman and European architecture. Explore Lake Ohrid and Skopje's Old Bazaar. Best time: June to September.",
+      "metadata": {
+        "capital": "Skopje",
+        "country_code": "MK",
+        "lat": 41.9981,
+        "lon": 21.4254,
+        "image_url": "https://images.pexels.com/photos/1371360/pexels-photo-1371360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["lakes", "mountains", "history", "culture", "architecture"],
+        "best_months": [6, 7, 8, 9],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "description": "The Northern Mariana Islands, a U.S. commonwealth in the Western Pacific, are a string of 15 islands known for their palm-fringed beaches and WWII history. Saipan is the largest island. Best time: December to June.",
+      "metadata": {
+        "capital": "Saipan",
+        "country_code": "MP",
+        "lat": 15.1794,
+        "lon": 145.7533,
+        "image_url": "https://images.pexels.com/photos/261101/pexels-photo-261101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "history", "diving", "islands"],
+        "best_months": [12, 1, 2, 3, 4, 5, 6],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Norway",
+      "description": "Norway is a Scandinavian country encompassing mountains, glaciers and deep coastal fjords. Its capital, Oslo, is a city of green spaces and museums. It is famous for its stunning fjords and the Northern Lights. Best time: June to August for hiking, October to March for Northern Lights.",
+      "metadata": {
+        "capital": "Oslo",
+        "country_code": "NO",
+        "lat": 59.9139,
+        "lon": 10.7522,
+        "image_url": "https://images.pexels.com/photos/373965/pexels-photo-373965.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["fjords", "northern lights", "hiking", "mountains", "nature"],
+        "best_months": [1, 2, 3, 6, 7, 8, 10, 11, 12],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Oman",
+      "description": "Oman, a nation on the Arabian Peninsula, has terrain encompassing desert, riverbed oases and long coastlines on the Persian (Arabian) Gulf, Arabian Sea and Gulf of Oman. Known for its traditional souks and forts. Best time: October to April.",
+      "metadata": {
+        "capital": "Muscat",
+        "country_code": "OM",
+        "lat": 23.5880,
+        "lon": 58.3829,
+        "image_url": "https://images.pexels.com/photos/3584435/pexels-photo-3584435.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["desert", "mountains", "forts", "culture", "beaches", "diving"],
+        "best_months": [10, 11, 12, 1, 2, 3, 4],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "description": "Pakistan is a country in South Asia. It's home to a diverse landscape, from the towering K2 peak in the north to the Arabian Sea coast in the south. Rich in Mughal-era architecture. Best time: October to March.",
+      "metadata": {
+        "capital": "Islamabad",
+        "country_code": "PK",
+        "lat": 33.6844,
+        "lon": 73.0479,
+        "image_url": "https://images.pexels.com/photos/1547813/pexels-photo-1547813.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["mountains", "history", "culture", "trekking", "architecture"],
+        "best_months": [10, 11, 12, 1, 2, 3],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Palau",
+      "description": "Palau is an archipelago of over 500 islands, part of the Micronesia region in the western Pacific Ocean. It's known for its scuba diving and snorkeling, particularly in the Jellyfish Lake. Best time: December to April.",
+      "metadata": {
+        "capital": "Ngerulmud",
+        "country_code": "PW",
+        "lat": 7.5005,
+        "lon": 134.6242,
+        "image_url": "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["diving", "snorkeling", "islands", "lakes", "wildlife"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Palestine",
+      "description": "The State of Palestine claims the West Bank and Gaza Strip. It is home to significant religious sites, such as Bethlehem, the birthplace of Jesus. Best time: April to May and September to October.",
+      "metadata": {
+        "capital": "Ramallah",
+        "country_code": "PS",
+        "lat": 31.9038,
+        "lon": 35.2034,
+        "image_url": "https://images.pexels.com/photos/3244513/pexels-photo-3244513.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["religion", "history", "culture"],
+        "best_months": [4, 5, 9, 10],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Panama",
+      "description": "Panama is a country on the isthmus linking Central and South America. The Panama Canal, a famous feat of human engineering, cuts through its center. It also offers tropical rainforests and beautiful islands like the San Blas archipelago. Best time: December to April.",
+      "metadata": {
+        "capital": "Panama City",
+        "country_code": "PA",
+        "lat": 8.9824,
+        "lon": -79.5199,
+        "image_url": "https://images.pexels.com/photos/3473569/pexels-photo-3473569.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["canals", "rainforest", "islands", "beaches", "history"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Papua New Guinea",
+      "description": "Papua New Guinea, in the southwestern Pacific, encompasses the eastern half of New Guinea and its offshore islands. A country of immense cultural and biological diversity, it’s known for its beaches, coral reefs, and trekking the Kokoda Track. Best time: May to October.",
+      "metadata": {
+        "capital": "Port Moresby",
+        "country_code": "PG",
+        "lat": -9.4438,
+        "lon": 147.1803,
+        "image_url": "https://images.pexels.com/photos/1188750/pexels-photo-1188750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["culture", "diving", "trekking", "wildlife", "adventure"],
+        "best_months": [5, 6, 7, 8, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Paraguay",
+      "description": "Paraguay is a landlocked country between Argentina, Brazil and Bolivia, home to large swaths of swampland, subtropical forest and chaco, wildernesses comprising savanna and scrubland. Best time: April to September.",
+      "metadata": {
+        "capital": "Asunción",
+        "country_code": "PY",
+        "lat": -25.2637,
+        "lon": -57.5759,
+        "image_url": "https://images.pexels.com/photos/1029604/pexels-photo-1029604.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["nature", "history", "culture", "rivers"],
+        "best_months": [4, 5, 6, 7, 8, 9],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Peru",
+      "description": "Peru is a country in South America that's home to a section of Amazon rainforest and Machu Picchu, an ancient Incan city high in the Andes mountains. The region around Machu Picchu, including the Sacred Valley and Inca Trail, is rich in archaeological sites. Best time: May to October.",
+      "metadata": {
+        "capital": "Lima",
+        "country_code": "PE",
+        "lat": -12.0464,
+        "lon": -77.0428,
+        "image_url": "https://images.pexels.com/photos/1029615/pexels-photo-1029615.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["ruins", "history", "mountains", "trekking", "rainforest", "food"],
+        "best_months": [5, 6, 7, 8, 9, 10],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Philippines",
+      "description": "The Philippines is a Southeast Asian country in the Western Pacific, comprising more than 7,000 islands. It's known for its stunning beaches in Palawan, rice terraces in Banaue, and vibrant capital, Manila. Best time: December to April.",
+      "metadata": {
+        "capital": "Manila",
+        "country_code": "PH",
+        "lat": 14.5995,
+        "lon": 120.9842,
+        "image_url": "https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "diving", "islands", "nature", "volcanoes"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Pitcairn Islands",
+      "description": "The Pitcairn Islands are a group of four volcanic islands in the southern Pacific Ocean that form the sole British Overseas Territory in the Pacific. They are famous for being settled by the mutineers from the HMS Bounty. Best time: April to October.",
+      "metadata": {
+        "capital": "Adamstown",
+        "country_code": "PN",
+        "lat": -25.0660,
+        "lon": -130.1015,
+        "image_url": "https://images.pexels.com/photos/1239161/pexels-photo-1239161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "islands", "nature", "adventure"],
+        "best_months": [4, 5, 6, 7, 8, 9, 10],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Poland",
+      "description": "Poland is an Eastern European country on the Baltic Sea known for its medieval architecture and Jewish heritage. Warsaw, its capital, has a rebuilt Old Town. Also known for the city of Kraków and the Auschwitz-Birkenau Memorial and Museum. Best time: May to September.",
+      "metadata": {
+        "capital": "Warsaw",
+        "country_code": "PL",
+        "lat": 52.2297,
+        "lon": 21.0122,
+        "image_url": "https://images.pexels.com/photos/1701535/pexels-photo-1701535.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "castles", "city life", "nature"],
+        "best_months": [5, 6, 7, 8, 9],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Portugal",
+      "description": "Portugal is a southern European country on the Iberian Peninsula, bordering Spain. Its location on the Atlantic Ocean has influenced many aspects of its culture: salt cod and grilled sardines are national dishes. Explore Lisbon, the Algarve coast, and the vineyards of the Douro Valley. Best time: March to October.",
+      "metadata": {
+        "capital": "Lisbon",
+        "country_code": "PT",
+        "lat": 38.7223,
+        "lon": -9.1393,
+        "image_url": "https://images.pexels.com/photos/1141853/pexels-photo-1141853.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["food", "beaches", "history", "city life", "wine", "castles"],
+        "best_months": [3, 4, 5, 6, 7, 8, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Puerto Rico",
+      "description": "Puerto Rico is a Caribbean island and unincorporated U.S. territory with a landscape of mountains, waterfalls and the El Yunque tropical rainforest. In San Juan, the capital, the Isla Verde area is known for its hotel strip and casinos. Best time: December to May.",
+      "metadata": {
+        "capital": "San Juan",
+        "country_code": "PR",
+        "lat": 18.4655,
+        "lon": -66.1057,
+        "image_url": "https://images.pexels.com/photos/1048630/pexels-photo-1048630.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["rainforest", "beaches", "history", "food", "music"],
+        "best_months": [12, 1, 2, 3, 4, 5],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Qatar",
+      "description": "Qatar is a peninsular Arab country whose terrain comprises arid desert and a long Persian (Arabian) Gulf shoreline of beaches and dunes. The capital, Doha, is known for its futuristic skyscrapers and other ultramodern architecture. Best time: November to April.",
+      "metadata": {
+        "capital": "Doha",
+        "country_code": "QA",
+        "lat": 25.2854,
+        "lon": 51.5310,
+        "image_url": "https://images.pexels.com/photos/2242636/pexels-photo-2242636.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["architecture", "luxury", "desert", "art", "city life"],
+        "best_months": [11, 12, 1, 2, 3, 4],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Romania",
+      "description": "Romania is a southeastern European country known for the forested region of Transylvania, ringed by the Carpathian Mountains. It's famous for its medieval towns, fortified churches, and the legend of Dracula. Best time: May to September.",
+      "metadata": {
+        "capital": "Bucharest",
+        "country_code": "RO",
+        "lat": 44.4268,
+        "lon": 26.1025,
+        "image_url": "https://images.pexels.com/photos/1131458/pexels-photo-1131458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["castles", "history", "mountains", "legends", "countryside"],
+        "best_months": [5, 6, 7, 8, 9],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Russia",
+      "description": "Russia, the world’s largest nation, borders European and Asian countries and the Pacific and Arctic oceans. Its landscape ranges from tundra and forests to subtropical beaches. Famous for Moscow's Kremlin and St. Petersburg's Hermitage Museum. Best time: June to August.",
+      "metadata": {
+        "capital": "Moscow",
+        "country_code": "RU",
+        "lat": 55.7558,
+        "lon": 37.6173,
+        "image_url": "https://images.pexels.com/photos/2361952/pexels-photo-2361952.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "art", "city life", "culture", "architecture"],
+        "best_months": [6, 7, 8],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Rwanda",
+      "description": "Rwanda is a landlocked country in the Great Rift Valley, where the African Great Lakes region and East Africa converge. Known for its mountain gorillas in Volcanoes National Park and its remarkable recovery and development. Best time: June to September.",
+      "metadata": {
+        "capital": "Kigali",
+        "country_code": "RW",
+        "lat": -1.9441,
+        "lon": 30.0619,
+        "image_url": "https://images.pexels.com/photos/70080/gorilla-silverback-sivler-back-gorilla-70080.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["gorillas", "wildlife", "mountains", "history", "culture"],
+        "best_months": [6, 7, 8, 9],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Réunion",
+      "description": "Réunion, a French department in the Indian Ocean, is known for its volcanic, rainforested interior, coral reefs and beaches. Piton de la Fournaise, a climbable active volcano, is a major attraction. Best time: May to November.",
+      "metadata": {
+        "capital": "Saint-Denis",
+        "country_code": "RE",
+        "lat": -20.8823,
+        "lon": 55.4511,
+        "image_url": "https://images.pexels.com/photos/10398679/pexels-photo-10398679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["volcanoes", "hiking", "rainforest", "beaches", "canyoning"],
+        "best_months": [5, 6, 7, 8, 9, 10, 11],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Saint Barthélemy",
+      "description": "Saint Barthélemy, a French-speaking Caribbean island commonly known as St. Barts, is known for its white-sand beaches, designer shops and high-end restaurants. Best time: December to April.",
+      "metadata": {
+        "capital": "Gustavia",
+        "country_code": "BL",
+        "lat": 17.8966,
+        "lon": -62.8496,
+        "image_url": "https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["luxury", "beaches", "shopping", "sailing", "food"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Saint Helena",
+      "description": "Saint Helena is a remote volcanic outpost in the South Atlantic Ocean. It's famous as the place of Napoleon Bonaparte's exile and death. Best time: December to March.",
+      "metadata": {
+        "capital": "Jamestown",
+        "country_code": "SH",
+        "lat": -15.9247,
+        "lon": -5.7176,
+        "image_url": "https://images.pexels.com/photos/1058959/pexels-photo-1058959.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "nature", "hiking", "islands"],
+        "best_months": [12, 1, 2, 3],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "description": "Saint Kitts and Nevis is a dual-island nation situated between the Atlantic Ocean and Caribbean Sea. It's known for cloud-shrouded mountains and beaches. Many of its former sugar plantations are now inns or atmospheric ruins. Best time: December to April.",
+      "metadata": {
+        "capital": "Basseterre",
+        "country_code": "KN",
+        "lat": 17.2983,
+        "lon": -62.7228,
+        "image_url": "https://images.pexels.com/photos/1076241/pexels-photo-1076241.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "mountains", "history", "rainforest"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Saint Lucia",
+      "description": "Saint Lucia is an Eastern Caribbean island nation with a pair of dramatically tapered mountains, the Pitons, on its west coast. Its coast is home to volcanic beaches, reef-diving sites, luxury resorts and fishing villages. Best time: December to April.",
+      "metadata": {
+        "capital": "Castries",
+        "country_code": "LC",
+        "lat": 14.0101,
+        "lon": -60.9889,
+        "image_url": "https://images.pexels.com/photos/1165999/pexels-photo-1165999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["mountains", "beaches", "romance", "diving", "luxury"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Saint Martin",
+      "description": "Saint Martin is an island in the northeast Caribbean, comprising 2 separate countries, divided between its northern French side, called Saint-Martin, and its southern Dutch side, Sint Maarten. Best time: December to May.",
+      "metadata": {
+        "capital": "Marigot",
+        "country_code": "MF",
+        "lat": 18.0731,
+        "lon": -63.0822,
+        "image_url": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "shopping", "nightlife", "sailing"],
+        "best_months": [12, 1, 2, 3, 4, 5],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Saint Pierre and Miquelon",
+      "description": "Saint Pierre and Miquelon is a French territorial collectivity of small islands in the northwestern Atlantic Ocean, near the Canadian province of Newfoundland and Labrador. Known for its distinct French culture. Best time: June to September.",
+      "metadata": {
+        "capital": "Saint-Pierre",
+        "country_code": "PM",
+        "lat": 46.7775,
+        "lon": -56.1777,
+        "image_url": "https://images.pexels.com/photos/1569076/pexels-photo-1569076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["culture", "history", "nature", "bird watching"],
+        "best_months": [6, 7, 8, 9],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "description": "Saint Vincent and the Grenadines is a southern Caribbean nation comprising a main island, St. Vincent, and a chain of smaller islands. With yacht-filled harbors and chic private isles, the area is a favorite of the sailing set. Best time: December to April.",
+      "metadata": {
+        "capital": "Kingstown",
+        "country_code": "VC",
+        "lat": 13.1609,
+        "lon": -61.2291,
+        "image_url": "https://images.pexels.com/photos/1151282/pexels-photo-1151282.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["sailing", "beaches", "islands", "diving", "luxury"],
+        "best_months": [12, 1, 2, 3, 4],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Samoa",
+      "description": "Samoa is a country comprising the westernmost group of the Samoan Islands, in Polynesia. It is known for its stunning natural beauty, including waterfalls, blowholes, and pristine beaches. Best time: May to October.",
+      "metadata": {
+        "capital": "Apia",
+        "country_code": "WS",
+        "lat": -13.8333,
+        "lon": -171.7667,
+        "image_url": "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "waterfalls", "culture", "nature"],
+        "best_months": [5, 6, 7, 8, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "San Marino",
+      "description": "San Marino is a mountainous microstate surrounded by north-central Italy. Among the world’s oldest republics, it retains much of its historic architecture. Best time: April to September.",
+      "metadata": {
+        "capital": "San Marino",
+        "country_code": "SM",
+        "lat": 43.9356,
+        "lon": 12.4473,
+        "image_url": "https://images.pexels.com/photos/161294/prague-castle-cathedral-czech-republic-161294.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "castles", "mountains", "architecture"],
+        "best_months": [4, 5, 6, 7, 8, 9],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "description": "Sao Tome and Principe, an African island nation close to the equator, is part of a volcano chain featuring striking rock and coral formations, rainforests and beaches. Best time: June to September.",
+      "metadata": {
+        "capital": "São Tomé",
+        "country_code": "ST",
+        "lat": 0.3365,
+        "lon": 6.7273,
+        "image_url": "https://images.pexels.com/photos/994605/pexels-photo-994605.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["rainforest", "beaches", "ecotourism", "diving", "chocolate"],
+        "best_months": [6, 7, 8, 9],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "description": "Saudi Arabia is a desert country encompassing most of the Arabian Peninsula, with Red Sea and Persian (Arabian) Gulf coastlines. Known as the birthplace of Islam, it’s home to the two most sacred mosques: Masjid al-Haram, in Mecca, and Masjid an-Nabawi, in Medina. Best time: November to February.",
+      "metadata": {
+        "capital": "Riyadh",
+        "country_code": "SA",
+        "lat": 24.7136,
+        "lon": 46.6753,
+        "image_url": "https://images.pexels.com/photos/206584/pexels-photo-206584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["religion", "history", "desert", "culture", "architecture"],
+        "best_months": [11, 12, 1, 2],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Senegal",
+      "description": "Senegal is a country in West Africa with a rich French colonial heritage and many natural attractions. Dakar, the capital, features the historic Médina district and esteemed Musée Théodore Monod. Best time: November to May.",
+      "metadata": {
+        "capital": "Dakar",
+        "country_code": "SN",
+        "lat": 14.7167,
+        "lon": -17.4677,
+        "image_url": "https://images.pexels.com/photos/15949576/pexels-photo-15949576.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["history", "culture", "music", "beaches", "wildlife"],
+        "best_months": [11, 12, 1, 2, 3, 4, 5],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Serbia",
+      "description": "Serbia is a landlocked country in Southeast Europe. Its capital, Belgrade, is known for its vibrant nightlife, fortress, and Soviet-era architecture. Best time: March to May and September to October.",
+      "metadata": {
+        "capital": "Belgrade",
+        "country_code": "RS",
+        "lat": 44.7866,
+        "lon": 20.4489,
+        "image_url": "https://images.pexels.com/photos/1125212/pexels-photo-1125212.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["nightlife", "history", "city life", "culture", "rivers"],
+        "best_months": [3, 4, 5, 9, 10],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Seychelles",
+      "description": "The Seychelles is an archipelago of 115 islands in the Indian Ocean, off East Africa. It's home to numerous beaches, coral reefs and nature reserves, as well as rare animals such as giant Aldabra tortoises. Best time: April to May and October to November.",
+      "metadata": {
+        "capital": "Victoria",
+        "country_code": "SC",
+        "lat": -4.6191,
+        "lon": 55.4513,
+        "image_url": "https://images.pexels.com/photos/221455/pexels-photo-221455.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "luxury", "wildlife", "nature", "sailing", "romance"],
+        "best_months": [4, 5, 10, 11],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Sierra Leone",
+      "description": "Sierra Leone is a country in West Africa, on the Atlantic Ocean. It’s known for the white-sand beaches lining the Freetown Peninsula. Best time: November to April.",
+      "metadata": {
+        "capital": "Freetown",
+        "country_code": "SL",
+        "lat": 8.4844,
+        "lon": -13.2344,
+        "image_url": "https://images.pexels.com/photos/1271619/pexels-photo-1271619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "history", "islands", "nature"],
+        "best_months": [11, 12, 1, 2, 3, 4],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Singapore",
+      "description": "Singapore, an island city-state off southern Malaysia, is a global financial center with a tropical climate and multicultural population. Known for its futuristic architecture like Gardens by the Bay and delicious street food. Best time: Year-round, but February to April is drier.",
+      "metadata": {
+        "capital": "Singapore",
+        "country_code": "SG",
+        "lat": 1.3521,
+        "lon": 103.8198,
+        "image_url": "https://images.pexels.com/photos/1388069/pexels-photo-1388069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["food", "city life", "architecture", "shopping", "gardens"],
+        "best_months": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Sint Maarten",
+      "description": "Sint Maarten is the Dutch side of the Caribbean island of Saint Martin. It's known for its festive nightlife, beaches, and duty-free shops selling jewelry and liquor. Best time: December to May.",
+      "metadata": {
+        "capital": "Philipsburg",
+        "country_code": "SX",
+        "lat": 18.0256,
+        "lon": -63.0461,
+        "image_url": "https://images.pexels.com/photos/1078850/pexels-photo-1078850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["nightlife", "beaches", "shopping", "sailing"],
+        "best_months": [12, 1, 2, 3, 4, 5],
+        "budget_tier": "high"
+      }
+    },
+    {
+      "name": "Slovakia",
+      "description": "Slovakia is a central European country known for its dramatic natural landscape and many castles. The High Tatras mountains are popular for hiking and skiing. Best time: May to September.",
+      "metadata": {
+        "capital": "Bratislava",
+        "country_code": "SK",
+        "lat": 48.1486,
+        "lon": 17.1077,
+        "image_url": "https://images.pexels.com/photos/2240361/pexels-photo-2240361.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["mountains", "hiking", "skiing", "castles", "history"],
+        "best_months": [5, 6, 7, 8, 9],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "Slovenia",
+      "description": "Slovenia, a country in Central Europe, is known for its mountains, ski resorts and lakes. On Lake Bled, a glacial lake fed by hot springs, the town of Bled contains a church-topped islet and a cliffside medieval castle. Best time: May to September.",
+      "metadata": {
+        "capital": "Ljubljana",
+        "country_code": "SI",
+        "lat": 46.0569,
+        "lon": 14.5058,
+        "image_url": "https://images.pexels.com/photos/4505459/pexels-photo-4505459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["mountains", "lakes", "hiking", "skiing", "castles", "caves"],
+        "best_months": [5, 6, 7, 8, 9],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Solomon Islands",
+      "description": "The Solomon Islands, a nation of hundreds of islands in the South Pacific, has many WWII-era sites. It's also known for its scuba diving and pristine natural environment. Best time: May to October.",
+      "metadata": {
+        "capital": "Honiara",
+        "country_code": "SB",
+        "lat": -9.4322,
+        "lon": 159.9443,
+        "image_url": "https://images.pexels.com/photos/1591382/pexels-photo-1591382.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["diving", "history", "islands", "culture"],
+        "best_months": [5, 6, 7, 8, 9, 10],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "Somalia",
+      "description": "Somalia, a country in the Horn of Africa, has the longest coastline on mainland Africa. It is known for its beaches and historical sites. Best time: December to March.",
+      "metadata": {
+        "capital": "Mogadishu",
+        "country_code": "SO",
+        "lat": 2.0469,
+        "lon": 45.3182,
+        "image_url": "https://images.pexels.com/photos/208736/pexels-photo-208736.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["beaches", "history", "culture"],
+        "best_months": [12, 1, 2, 3],
+        "budget_tier": "low"
+      }
+    },
+    {
+      "name": "South Africa",
+      "description": "South Africa is a country on the southernmost tip of the African continent, marked by several distinct ecosystems. Go on safari in Kruger National Park, explore Cape Town and its iconic Table Mountain, and visit the Cape Winelands. Best time: Varies by region.",
+      "metadata": {
+        "capital": "Pretoria",
+        "country_code": "ZA",
+        "lat": -25.7479,
+        "lon": 28.2293,
+        "image_url": "https://images.pexels.com/photos/139387/pexels-photo-139387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["safari", "wildlife", "mountains", "beaches", "wine", "city life"],
+        "best_months": [3, 4, 5, 9, 10, 11],
+        "budget_tier": "medium"
+      }
+    },
+    {
+      "name": "South Korea",
+      "description": "South Korea, an East Asian nation on the southern half of the Korean Peninsula. It’s known for its green, hilly countryside dotted with cherry trees and centuries-old Buddhist temples, plus its high-tech cities like Seoul. Best time: April to June and September to November.",
+      "metadata": {
+        "capital": "Seoul",
+        "country_code": "KR",
+        "lat": 37.5665,
+        "lon": 126.9780,
+        "image_url": "https://images.pexels.com/photos/1963075/pexels-photo-1963075.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "interests": ["city life", "technology", "food", "temples", "hiking", "pop culture"],
+        "best_months": [4, 5, 6, 9, 10, 11],
+        "budget_tier": "medium"
+      }
+    }
+  ]
+}
